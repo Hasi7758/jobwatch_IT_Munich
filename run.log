@@ -1,6 +1,5 @@
 抓取 arbeitnow…
-  [arbeitnow] HTTP 429
-  拿到 1550 条
+  拿到 2048 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -33,53 +32,35 @@
   [OK] Contabo (personio)
   [OK] QAware (personio)
   [OK] MaibornWolff (personio)
-  [失败] iteratec (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Agile Robots (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
   [OK] Quantum Systems (personio)
   [OK] tado (personio)
-  [失败] EGYM (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
   [OK] Freeletics (personio)
   [OK] Westwing (personio)
   [OK] FINN (personio)
-  [失败] Usercentrics (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
   [OK] NavVis (personio)
   [OK] TWAICE (personio)
-  [失败] KINEXON (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
   [OK] Blickfeld (personio)
   [OK] Magazino (personio)
-  [失败] Marvel Fusion (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] planqc (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Orbem (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Ryte (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
   [OK] HolidayCheck (personio)
-  [失败] Stylight (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Smartlane (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Roboception (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Franka Robotics (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Yoummday (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Alexander Thamm (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Machine Learning Reply (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
   [OK] TNG Technology Consulting (personio)
-  [失败] mgm technology partners (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Comsysto Reply (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
-  [失败] Netlight (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
   [OK] Flix (smartrecruiters)
   拿到 2769 条
 丢弃过期职位 2 条(发布超过 365 天)
 
-过滤后 55 / 4319 条符合关键词+地点
+过滤后 67 / 4817 条符合关键词+地点
 
-★ 新职位 11 条
-  · Software Engineer, Platform - Munich, Germany — Speechify
-  · AI Engineer - FDE (Forward Deployed Engineer) — databricks
-  · Fullstack Software Engineer - Core — dataiku
-  · Java Softwareentwickler/in mit Karriereambitionen - jetzt mi — Auralis Group
-  · Java Softwareentwickler - Backend & Microservices (w/m/d) — BBHT Beratungsgesellschaft mbH
-  · Infrastructure Engineer - Deployments (d/f/m) — Arculus
-  · Software Developer C++ and C# (m/w/d) — K-tronik GmbH
-  · Backend / Full Stack Developer (m/w/d) — SOFI AI GmbH
-  · Python Backend Engineer (m/f/x) — Makersite GmbH
-  · Robot Perception/ML Engineer (w/m/d) Autonomous Mobile Robot — Magazino
-  · Software Engineer - Android (all genders) — HolidayCheck
+★ 新职位 12 条
+  · Core Developer - Platform — Parity
+  · Core Developer - Node — Parity
+  · Site Reliability Engineers (SRE) — Xm
+  · Fachinformatiker Systemintegration/ Microsoft 365 Administra — Fierro Hiring Solutions Andrea
+  · Software Engineer – Developer Experience / Tooling (PHP) (m/ — shopware AG
+  · Programmiertutor/Informatiktutor (m/w/d) - complori — Cleverly edu GmbH
+  · C++/Kotlin Software Developer (RustRover Debugger) — jetbrains
+  · Software Engineer - Cloud Infrastructure — Applied
+  · Fullstack Software Engineer, Robotic Solutions Development — intrinsicrobotics
+  · App-Entwickler (m/w/d) - Mobile Payment — petaFuel GmbH
+  · Fullstack-Entwickler mit Schwerpunkt Frontend (m/w/d) — New Monday GmbH
+  · IOS-Entwickler (m/w/d) — petaFuel GmbH
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
