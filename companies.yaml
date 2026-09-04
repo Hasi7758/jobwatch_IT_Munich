@@ -1,0 +1,223 @@
+# 慕尼黑公司直连招聘接口(公司发到自家系统永远早于聚合平台)
+#
+# 标签:科技大厂 / 慕尼黑科技-创业 / 汽车与出行 / 半导体与硬件 / 航空与国防 /
+#       金融与保险 / 咨询与IT服务 / 中资出海 / 公共-科研
+#
+# 分三段:
+#   A. 从 jobwatch(慕尼黑 IG Metall 版)沿用,已实测可用
+#   B. 从 jobwatch_IT_singapor 沿用的全球公司接口(已实测可用),换成搜慕尼黑
+#   C. 凭经验加的慕尼黑科技公司(未逐个实测)。首次跑完看 Actions 日志,标 [失败] 的删掉即可。
+#
+# 加公司:打开公司招聘页,点一个职位看地址栏跳到哪个域名,按文末对照表填。
+# 本地跑  python jobwatch.py discover <slug>  可自动探测 Personio / Greenhouse / Lever 等。
+
+companies:
+# ---------- A. 慕尼黑版已实测 ----------
+- name: Konux
+  ats: greenhouse
+  slug: konux
+  tags: [慕尼黑科技/创业]
+- name: Isar Aerospace
+  ats: greenhouse
+  slug: isaraerospace
+  tags: [航空与国防, 慕尼黑科技/创业]
+- name: Brainlab
+  ats: smartrecruiters
+  slug: brainlab
+  tags: [慕尼黑科技/创业]
+- name: ProGlove
+  ats: personio
+  slug: proglove
+  tags: [慕尼黑科技/创业]
+- name: Steadforce
+  ats: personio
+  slug: steadforce
+  tags: [咨询与IT服务]
+- name: Webasto
+  ats: personio
+  slug: webasto
+  tags: [汽车与出行]
+- name: Airbus
+  ats: workday
+  url: https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs
+  search: München
+  tags: [航空与国防]
+- name: Knorr-Bremse
+  ats: successfactors
+  url: https://careers.knorr-bremse.com
+  location: München
+  tags: [汽车与出行]
+- name: Robert Bosch
+  ats: smartrecruiters
+  slug: robertbosch
+  tags: [汽车与出行]
+- name: Continental / Aumovio
+  ats: smartrecruiters
+  slug: continental
+  tags: [汽车与出行]
+
+# ---------- B. 全球公司,新加坡版已实测可用,这里搜慕尼黑 ----------
+- name: Infineon (Neubiberg)
+  ats: successfactors
+  url: https://jobs.infineon.com
+  location: Neubiberg
+  tags: [半导体与硬件]
+- name: Infineon (München)
+  ats: successfactors
+  url: https://jobs.infineon.com
+  location: München
+  tags: [半导体与硬件]
+- name: SAP
+  ats: successfactors
+  url: https://jobs.sap.com
+  location: München
+  tags: [科技大厂]
+- name: Intel
+  ats: workday
+  url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs
+  search: Munich
+  tags: [半导体与硬件, 科技大厂]
+- name: NVIDIA
+  ats: workday
+  url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
+  search: Munich
+  tags: [半导体与硬件, 科技大厂]
+- name: Salesforce
+  ats: workday
+  url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
+  search: Munich
+  tags: [科技大厂]
+- name: Adobe
+  ats: workday
+  url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs
+  search: Munich
+  tags: [科技大厂]
+- name: Micron
+  ats: workday
+  url: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs
+  search: Munich
+  tags: [半导体与硬件]
+- name: AMD
+  ats: phenom
+  url: https://careers.amd.com
+  location: Munich
+  tags: [半导体与硬件]
+- name: Cloudflare
+  ats: greenhouse
+  slug: cloudflare
+  tags: [科技大厂]
+- name: Palantir
+  ats: lever
+  slug: palantir
+  tags: [科技大厂]
+- name: Okta
+  ats: greenhouse
+  slug: okta
+  tags: [科技大厂]
+- name: Twilio
+  ats: greenhouse
+  slug: twilio
+  tags: [科技大厂]
+- name: GitLab
+  ats: greenhouse
+  slug: gitlab
+  tags: [科技大厂]
+- name: Thoughtworks
+  ats: greenhouse
+  slug: thoughtworks
+  tags: [咨询与IT服务]
+
+# ---------- C. 凭经验加的慕尼黑科技公司,首次运行后看日志清理 ----------
+- name: Celonis
+  ats: greenhouse
+  slug: celonis
+  tags: [慕尼黑科技/创业]
+- name: Helsing
+  ats: greenhouse
+  slug: helsing
+  tags: [航空与国防, 慕尼黑科技/创业]
+- name: Personio
+  ats: greenhouse
+  slug: personio
+  tags: [慕尼黑科技/创业]
+- name: Scalable Capital
+  ats: greenhouse
+  slug: scalablecapital
+  tags: [金融与保险, 慕尼黑科技/创业]
+- name: Freeletics
+  ats: greenhouse
+  slug: freeletics
+  tags: [慕尼黑科技/创业]
+- name: IDnow
+  ats: greenhouse
+  slug: idnow
+  tags: [慕尼黑科技/创业]
+- name: FINN
+  ats: greenhouse
+  slug: finn
+  tags: [慕尼黑科技/创业]
+- name: Westwing
+  ats: greenhouse
+  slug: westwing
+  tags: [慕尼黑科技/创业]
+- name: EGYM
+  ats: greenhouse
+  slug: egym
+  tags: [慕尼黑科技/创业]
+- name: Contabo
+  ats: personio
+  slug: contabo
+  tags: [慕尼黑科技/创业]
+- name: QAware
+  ats: personio
+  slug: qaware
+  tags: [咨询与IT服务]
+- name: MaibornWolff
+  ats: personio
+  slug: maibornwolff
+  tags: [咨询与IT服务]
+- name: iteratec
+  ats: personio
+  slug: iteratec
+  tags: [咨询与IT服务]
+- name: Agile Robots
+  ats: personio
+  slug: agile-robots
+  tags: [慕尼黑科技/创业]
+- name: Quantum Systems
+  ats: personio
+  slug: quantum-systems
+  tags: [航空与国防, 慕尼黑科技/创业]
+- name: tado
+  ats: personio
+  slug: tado
+  tags: [慕尼黑科技/创业]
+- name: Usercentrics
+  ats: greenhouse
+  slug: usercentrics
+  tags: [慕尼黑科技/创业]
+- name: Flix
+  ats: smartrecruiters
+  slug: Flix
+  tags: [慕尼黑科技/创业, 汽车与出行]
+
+# ============================================================
+# 对照表:地址栏域名 -> ats 字段
+#   xxx.jobs.personio.de  或 xxx.jobs.personio.com                 -> ats: personio,   slug: xxx
+#   boards.greenhouse.io/xxx  或 job-boards.greenhouse.io/xxx       -> ats: greenhouse, slug: xxx
+#   jobs.lever.co/xxx                                             -> ats: lever,      slug: xxx
+#   jobs.smartrecruiters.com/xxx                                  -> ats: smartrecruiters, slug: xxx
+#   jobs.ashbyhq.com/xxx                                          -> ats: ashby,      slug: xxx
+#   apply.workable.com/xxx                                        -> ats: workable,   slug: xxx
+#   xxx.recruitee.com                                             -> ats: recruitee,  slug: xxx
+#   xxx.softgarden.io                                             -> ats: softgarden, slug: xxx
+#   join.com/companies/xxx                                        -> ats: join,       slug: xxx
+#   xxx.wdN.myworkdayjobs.com/SITE/...                            -> ats: workday,
+#        url: https://xxx.wdN.myworkdayjobs.com/wday/cxs/xxx/SITE/jobs   search: München
+#   careers.xxx.com/search/?q=(SuccessFactors)                    -> ats: successfactors, url: https://careers.xxx.com, location: München
+#   careers.xxx.com/job/...(Phenom 平台)                          -> ats: phenom, url: https://careers.xxx.com, location: Munich
+#
+# 没有公开接口的:BMW(自家系统,原版靠代理,GitHub 上不稳)、Siemens / Allianz / Munich Re(Avature)、
+# Google / Apple / Microsoft / Amazon / Huawei(自家系统)、Check24 / Sixt(自家系统)。
+# 这些只能靠 arbeitnow 覆盖到一部分,或者去官网直接投。
+# ============================================================

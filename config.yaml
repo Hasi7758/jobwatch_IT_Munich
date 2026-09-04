@@ -1,0 +1,294 @@
+# ============================================================
+#  慕尼黑 IT 职位监控配置(Cloud / DevOps / Platform / AI / Software Engineer)
+#  面向 1 年左右工作经验:不要 Senior/Lead 等资深岗,不要 Data 类岗位。
+#
+#  匹配规则:只看职位名,整词匹配,并做了德语适配:
+#    · 阴性后缀自动兼容:"entwickler" 也命中 Entwicklerin / Entwickler:in / Entwickler (m/w/d)
+#    · 以 ~ 开头是词根,子串匹配:"~entwickl" 命中 Softwareentwickler / Webentwicklung / Anwendungsentwickler
+#    · "lead" 命中 "Tech Lead",不会误伤 "Leadership";"data" 不会误伤 "Database"(另列)
+#  exclude 优先级高于 include。
+# ============================================================
+
+keywords:
+  include:
+    # —— Cloud ——
+    - cloud engineer
+    - cloud-engineer
+    - cloud infrastructure engineer
+    - cloud platform engineer
+    - cloud operations engineer
+    - cloud support engineer
+    - cloud developer
+    - cloud native engineer
+    - cloud specialist
+    - cloud consultant
+    - cloud administrator
+    - cloud ops
+    - cloudops
+    - aws engineer
+    - azure engineer
+    - gcp engineer
+    - cloud-entwickler
+    - cloud entwickler
+    - cloud-spezialist
+    - cloud spezialist
+    # —— DevOps / SRE ——
+    - devops
+    - dev ops
+    - devsecops
+    - site reliability
+    - sre
+    - reliability engineer
+    - release engineer
+    - build engineer
+    - ci/cd engineer
+    - kubernetes engineer
+    # —— Platform / Infra ——
+    - platform engineer
+    - platform engineering
+    - plattform engineer
+    - plattform-engineer
+    - plattformentwickler
+    - infrastructure engineer
+    - infra engineer
+    - infrastruktur engineer
+    - infrastruktur-engineer
+    # —— AI ——
+    - ai engineer
+    - a.i. engineer
+    - ai/ml engineer
+    - ai software engineer
+    - ai application engineer
+    - ai developer
+    - applied ai
+    - machine learning engineer
+    - ml engineer
+    - mlops
+    - llm engineer
+    - genai engineer
+    - generative ai engineer
+    - nlp engineer
+    - computer vision engineer
+    - deep learning engineer
+    - ki engineer
+    - ki-engineer
+    - ki entwickler
+    - ki-entwickler
+    - ki-softwareentwickler
+    - ki software engineer
+    - machine learning entwickler
+    - "~ki-entwickl"
+    # —— Software ——
+    - software engineer
+    - software-engineer
+    - softwareengineer
+    - software developer
+    - software-developer
+    - software development engineer
+    - application developer
+    - backend engineer
+    - back-end engineer
+    - back end engineer
+    - backend developer
+    - frontend engineer
+    - front-end engineer
+    - frontend developer
+    - front end developer
+    - full stack
+    - full-stack
+    - fullstack
+    - web developer
+    - java developer
+    - python developer
+    - golang developer
+    - .net developer
+    - dot net developer
+    - c# developer
+    - c++ developer
+    - node.js developer
+    - react developer
+    - mobile developer
+    - android developer
+    - ios developer
+    - developer                 # 兜底:Java/Salesforce/SAP Developer 等各种写法
+    - programmer
+    - sde
+    - "~entwickl"               # Softwareentwickler / Java-Entwickler / Webentwickler / Anwendungsentwicklung…
+    - "~programmier"            # Programmierer / Programmiererin
+    - softwareingenieur
+    - software-ingenieur
+    - softwareentwicklung
+    - anwendungsentwicklung
+    - fachinformatiker          # 培训毕业后的初级开发岗,常见于中小企业
+    - it-consultant
+    - it consultant
+
+  exclude:
+    # —— 资深岗:1 年经验不看 ——
+    - senior
+    - sr
+    - sr.
+    - snr
+    - lead
+    - leader
+    - "~leiter"                 # Teamleiter / Projektleiter / Abteilungsleiter / Gruppenleiter
+    - "~leitung"                # Teamleitung / Projektleitung / Entwicklungsleitung
+    - teamlead
+    - principal
+    - staff
+    - manager
+    - head
+    - director
+    - direktor
+    - vice president
+    - vp
+    - chief
+    - "~architekt"              # Softwarearchitekt / Cloud-Architekt / Solution Architect 都不看
+    - architect
+    - distinguished
+    - fellow
+    - expert
+    - "~experte"                # Experte / Expertin
+    - iii
+    - iv
+    # —— Data 类:不要 ——
+    - data
+    - "~daten"                  # Datenbank / Datenanalyst / Datenschutz / Datenmanagement
+    - database
+    - dba
+    - analytics
+    - business intelligence
+    - power bi
+    - bi developer
+    - etl
+    - scientist
+    # —— 学生 / 实习 / 学徒:已有 1 年经验,不看 ——
+    - intern
+    - interns
+    - internship
+    - "~praktik"                # Praktikum / Praktikant / Pflichtpraktikum
+    - werkstudent
+    - working student
+    - "~student"                # Student / Studentin / studentische Hilfskraft / Dualer Student
+    - "~studium"                # Duales Studium
+    - "~ausbild"                # Ausbildung / Auszubildende
+    - azubi
+    - bachelorand
+    - masterand
+    - abschlussarbeit
+    - bachelorarbeit
+    - masterarbeit
+    - thesis
+    - doktorand
+    - promotion
+    - phd
+    - postdoc
+    - wissenschaftlich
+    - apprentice
+    - schüler
+    - minijob
+    - aushilfe
+    - part-time
+    - part time
+    # —— 非工程/噪音 ——
+    - sales
+    - vertrieb
+    - pre-sales
+    - presales
+    - marketing
+    - recruiter
+    - recruiting
+    - trainer
+    - dozent
+    - lecturer
+    - professor
+    - professur
+    - instructor
+    - lehrer
+    - tutor
+    - business developer
+    - business development
+    - cnc
+    - plc
+    - sps
+    - "~roboterprogrammier"
+    - "~hardware"               # Hardwareentwickler
+    - mechanical
+    - "~mechanik"               # Mechanik / Mechatronik / Feinmechanik
+    - "~mechatronik"
+    - "~maschinenbau"
+    - electrical
+    - "~elektrotechnik"
+    - "~elektronik"             # Elektronikentwickler
+    - "~elektrik"
+    - "~schaltung"              # Schaltungsentwickler
+    - fpga
+    - civil
+    - structural
+    - "~bauingenieur"
+    - "~immobilien"             # Immobilienentwickler
+    - "~projektentwickl"        # 房地产项目开发
+    - "~produktentwickl"        # Produktentwickler 多为机械/硬件
+    - "~prozessentwickl"
+    - "~verfahrensentwickl"
+    - "~geschäftsentwickl"      # 业务拓展
+    - "~personalentwickl"
+    - "~organisationsentwickl"
+    - "~antrieb"
+    - "~batterie"
+    - "~kunststoff"
+    - "~werkstoff"
+    - "~motorentwickl"
+    - hvac
+    - facilities
+    - embedded                  # 慕尼黑汽车业 embedded 岗海量,方向不同;想看就删掉这行
+    - automotive spice
+    - autosar
+    - "~fahrzeug"
+    - vehicle
+    - sap berater
+    - sap consultant
+
+# ---------- 地点:慕尼黑及周边 ----------
+location:
+  terms: ["münchen", "munich", "muenchen", "munchen", "garching", "unterföhring", "ismaning", "aschheim",
+          "unterschleißheim", "oberschleißheim", "neubiberg", "ottobrunn", "taufkirchen", "hallbergmoos",
+          "freising", "planegg", "martinsried", "gräfelfing", "grünwald", "pullach", "neuried", "germering",
+          "puchheim", "dachau", "erding", "starnberg", "gilching", "oberpfaffenhofen", "poing", "kirchheim",
+          "feldkirchen", "haar", "vaterstetten", "unterhaching", "oberhaching", "gauting", "stockdorf",
+          "bayern", "bavaria"]
+  allow_remote: true     # 远程岗要带德国/欧洲字样才算(Remote US 不算)
+  remote_terms: ["deutschland", "germany", "bayern", "bavaria", "europe", "emea", "eu", "dach", "münchen", "munich"]
+  plz_prefixes: ["80", "81", "82", "85"]   # 慕尼黑及周边邮编
+
+# ---------- arbeitnow.com 公开源(GitHub 可达,德国全境,靠上面地点过滤) ----------
+arbeitnow:
+  enabled: true
+  pages: 8          # 每页约 100 条,按创建时间倒序
+
+# ---------- 联邦劳动局官方接口 ----------
+# 封了 GitHub 服务器的 IP,在 Actions 里拿不到数据;自己电脑上跑时可改成 true。
+arbeitsagentur:
+  enabled: false
+  city: "München"
+  radius_km: 25
+  published_within_days: 2
+  queries: ["Softwareentwickler", "Software Engineer", "DevOps", "Cloud Engineer", "Platform Engineer", "KI", "AI Engineer", "Machine Learning"]
+
+# ---------- 数据清洗 ----------
+filters:
+  max_posted_age_days: 365
+
+# ---------- 页面显示 ----------
+display:
+  max_age_days: 5
+  recent_days: 2
+  hide_tags: []      # 想整体隐藏某类(如 招聘中介)就写进来,仍会入库
+
+# ---------- 推送(可选;GitHub Actions 里用 Secrets 注入)----------
+telegram:
+  enabled: false
+  bot_token: ""
+  chat_id: ""
+
+open_browser: true
