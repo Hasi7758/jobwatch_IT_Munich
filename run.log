@@ -1,5 +1,6 @@
 抓取 arbeitnow…
-  拿到 950 条
+  [arbeitnow] HTTP 429
+  拿到 1550 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -28,13 +29,7 @@
   [OK] Thoughtworks (greenhouse)
   [OK] Celonis (greenhouse)
   [OK] Helsing (greenhouse)
-  [失败] Personio (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/personio/jobs
-  [失败] Scalable Capital (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/scalablecapital/jobs
-  [失败] Freeletics (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/freeletics/jobs
   [OK] IDnow (greenhouse)
-  [失败] FINN (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/finn/jobs
-  [失败] Westwing (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/westwing/jobs
-  [失败] EGYM (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/egym/jobs
   [OK] Contabo (personio)
   [OK] QAware (personio)
   [OK] MaibornWolff (personio)
@@ -42,14 +37,49 @@
   [失败] Agile Robots (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
   [OK] Quantum Systems (personio)
   [OK] tado (personio)
-  [失败] Usercentrics (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/usercentrics/jobs
+  [失败] EGYM (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [OK] Freeletics (personio)
+  [OK] Westwing (personio)
+  [OK] FINN (personio)
+  [失败] Usercentrics (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [OK] NavVis (personio)
+  [OK] TWAICE (personio)
+  [失败] KINEXON (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [OK] Blickfeld (personio)
+  [OK] Magazino (personio)
+  [失败] Marvel Fusion (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] planqc (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Orbem (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Ryte (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [OK] HolidayCheck (personio)
+  [失败] Stylight (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Smartlane (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Roboception (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Franka Robotics (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Yoummday (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Alexander Thamm (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Machine Learning Reply (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [OK] TNG Technology Consulting (personio)
+  [失败] mgm technology partners (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Comsysto Reply (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
+  [失败] Netlight (personio): HTTPError 429 Client Error: Too Many Requests for url: https://personio.com
   [OK] Flix (smartrecruiters)
-  拿到 2679 条
+  拿到 2769 条
 丢弃过期职位 2 条(发布超过 365 天)
 
-过滤后 44 / 3629 条符合关键词+地点
+过滤后 55 / 4319 条符合关键词+地点
 
-首次运行:已把现有 44 条收作基线,不算新职位。
-从下一次运行起,只会显示真正新增的。
+★ 新职位 11 条
+  · Software Engineer, Platform - Munich, Germany — Speechify
+  · AI Engineer - FDE (Forward Deployed Engineer) — databricks
+  · Fullstack Software Engineer - Core — dataiku
+  · Java Softwareentwickler/in mit Karriereambitionen - jetzt mi — Auralis Group
+  · Java Softwareentwickler - Backend & Microservices (w/m/d) — BBHT Beratungsgesellschaft mbH
+  · Infrastructure Engineer - Deployments (d/f/m) — Arculus
+  · Software Developer C++ and C# (m/w/d) — K-tronik GmbH
+  · Backend / Full Stack Developer (m/w/d) — SOFI AI GmbH
+  · Python Backend Engineer (m/f/x) — Makersite GmbH
+  · Robot Perception/ML Engineer (w/m/d) Autonomous Mobile Robot — Magazino
+  · Software Engineer - Android (all genders) — HolidayCheck
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
