@@ -450,8 +450,18 @@ def fetch_arbeitsagentur(cfg):
 # ----------------------------------------------------------------------------
 
 def _get(url, **kw):
+    """带一次重试:429 / 5xx 时等几秒再来一次(Personio 连续请求容易 429)。"""
     kw.setdefault("timeout", 20)
-    return session.get(url, **kw)
+    r = session.get(url, **kw)
+    if r.status_code == 429 or r.status_code >= 500:
+        wait = 6
+        try:
+            wait = min(int(r.headers.get("Retry-After", wait)), 20)
+        except ValueError:
+            pass
+        time.sleep(wait)
+        r = session.get(url, **kw)
+    return r
 
 
 def ats_personio(slug, name):
@@ -879,7 +889,7 @@ def fetch_companies():
             print(f"  [OK] {name} ({ats})")
         except Exception as e:
             print(f"  [失败] {name} ({ats}): {type(e).__name__} {e}")
-        time.sleep(0.3)
+        time.sleep(1.5 if ats == "personio" else 0.3)
     return out
 
 

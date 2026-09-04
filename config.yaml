@@ -253,18 +253,20 @@ keywords:
 location:
   terms: ["münchen", "munich", "muenchen", "munchen", "garching", "unterföhring", "ismaning", "aschheim",
           "unterschleißheim", "oberschleißheim", "neubiberg", "ottobrunn", "taufkirchen", "hallbergmoos",
-          "freising", "planegg", "martinsried", "gräfelfing", "grünwald", "pullach", "neuried", "germering",
-          "puchheim", "dachau", "erding", "starnberg", "gilching", "oberpfaffenhofen", "poing", "kirchheim",
-          "feldkirchen", "haar", "vaterstetten", "unterhaching", "oberhaching", "gauting", "stockdorf",
-          "bayern", "bavaria"]
+          "freising", "eching", "neufahrn", "planegg", "martinsried", "gräfelfing", "grünwald", "pullach",
+          "neuried", "germering", "puchheim", "dachau", "karlsfeld", "erding", "starnberg", "gilching",
+          "oberpfaffenhofen", "weßling", "wessling", "poing", "kirchheim", "feldkirchen", "haar", "vaterstetten",
+          "parsdorf", "grasbrunn", "putzbrunn", "hohenbrunn", "unterhaching", "oberhaching", "taufkirchen",
+          "brunnthal", "sauerlach", "holzkirchen", "gauting", "stockdorf", "krailling", "olching",
+          "fürstenfeldbruck", "gröbenzell", "ebersberg", "markt schwaben", "wolfratshausen", "geretsried"]
   allow_remote: true     # 远程岗要带德国/欧洲字样才算(Remote US 不算)
-  remote_terms: ["deutschland", "germany", "bayern", "bavaria", "europe", "emea", "eu", "dach", "münchen", "munich"]
+  remote_terms: ["deutschland", "germany", "bayern", "bavaria", "europe", "emea", "eu", "dach", "münchen", "munich"]   # 远程岗须带这些字样之一
   plz_prefixes: ["80", "81", "82", "85"]   # 慕尼黑及周边邮编
 
 # ---------- arbeitnow.com 公开源(GitHub 可达,德国全境,靠上面地点过滤) ----------
 arbeitnow:
   enabled: true
-  pages: 8          # 每页约 100 条,按创建时间倒序
+  pages: 30         # 每页约 120 条,按创建时间倒序;德国全境,过滤后慕尼黑只剩一小部分,所以要多翻
 
 # ---------- 联邦劳动局官方接口 ----------
 # 封了 GitHub 服务器的 IP,在 Actions 里拿不到数据;自己电脑上跑时可改成 true。
