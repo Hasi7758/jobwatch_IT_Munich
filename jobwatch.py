@@ -364,8 +364,12 @@ def fetch_arbeitnow(cfg):
         try:
             r = session.get("https://www.arbeitnow.com/api/job-board-api",
                             params={"page": page}, timeout=25)
+            if r.status_code == 429:          # 限速:歇 20 秒再试一次
+                time.sleep(20)
+                r = session.get("https://www.arbeitnow.com/api/job-board-api",
+                                params={"page": page}, timeout=25)
             if r.status_code != 200:
-                print(f"  [arbeitnow] HTTP {r.status_code}")
+                print(f"  [arbeitnow] HTTP {r.status_code},停在第 {page} 页")
                 break
             items = r.json().get("data") or []
         except Exception as e:
@@ -390,7 +394,54 @@ def fetch_arbeitnow(cfg):
             ))
         if not items:
             break
-        time.sleep(0.3)
+        time.sleep(float(ac.get("pause", 1.5)))
+    return out
+
+
+# ----------------------------------------------------------------------------
+# 来源 1c:Adzuna(聚合 StepStone / Indeed 等的公开 API,免费注册拿 key)
+# GitHub Secrets 里放 ADZUNA_APP_ID / ADZUNA_APP_KEY 就自动启用;没有就静默跳过。
+# ----------------------------------------------------------------------------
+
+def fetch_adzuna(cfg):
+    ac = cfg.get("adzuna") or {}
+    app_id = os.environ.get("ADZUNA_APP_ID") or ac.get("app_id") or ""
+    app_key = os.environ.get("ADZUNA_APP_KEY") or ac.get("app_key") or ""
+    if not ac.get("enabled", True) or not (app_id and app_key):
+        return []
+    out, seen = [], set()
+    for q in ac.get("queries") or ["software engineer"]:
+        for page in range(1, int(ac.get("pages", 3)) + 1):
+            try:
+                r = session.get(f"https://api.adzuna.com/v1/api/jobs/de/search/{page}",
+                                params={"app_id": app_id, "app_key": app_key, "results_per_page": 50,
+                                        "what": q, "where": ac.get("where", "München"),
+                                        "distance": ac.get("distance_km", 30),
+                                        "max_days_old": ac.get("max_days_old", 7), "sort_by": "date",
+                                        "content-type": "application/json"}, timeout=25)
+                if r.status_code != 200:
+                    print(f"  [Adzuna] {q}: HTTP {r.status_code}")
+                    break
+                items = r.json().get("results") or []
+            except Exception as e:
+                print(f"  [Adzuna] {q}: 请求失败 {e}")
+                break
+            for it in items:
+                jid = str(it.get("id") or "")
+                if not jid or jid in seen:
+                    continue
+                seen.add(jid)
+                out.append(Job(
+                    uid=f"adz:{jid}", source="Adzuna",
+                    company=(it.get("company") or {}).get("display_name") or "—",
+                    title=_html_unescape(it.get("title") or "—"),
+                    location=(it.get("location") or {}).get("display_name") or "",
+                    url=it.get("redirect_url") or "",
+                    posted=str(it.get("created") or "")[:10],
+                ))
+            if len(items) < 50:
+                break
+            time.sleep(0.5)
     return out
 
 
@@ -1445,6 +1496,11 @@ def cmd_run(cfg):
     print("抓取 arbeitnow…")
     raw = fetch_arbeitnow(cfg)
     print(f"  拿到 {len(raw)} 条")
+    if os.environ.get("ADZUNA_APP_ID") or (cfg.get("adzuna") or {}).get("app_id"):
+        print("抓取 Adzuna…")
+        adz = fetch_adzuna(cfg)
+        print(f"  拿到 {len(adz)} 条")
+        raw += adz
     if (cfg.get("arbeitsagentur") or {}).get("enabled"):
         print("抓取联邦劳动局…")
         aa = fetch_arbeitsagentur(cfg)

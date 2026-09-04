@@ -127,7 +127,7 @@ companies:
   slug: thoughtworks
   tags: [咨询与IT服务]
 
-# ---------- C. 凭经验加的慕尼黑科技公司(Greenhouse 已验证;Personio 的是猜的 slug,跑完看日志清理) ----------
+# ---------- C. 慕尼黑科技公司(2026-09-04 已验证可用) ----------
 - name: Celonis
   ats: greenhouse
   slug: celonis
@@ -152,14 +152,6 @@ companies:
   ats: personio
   slug: maibornwolff
   tags: [咨询与IT服务]
-- name: iteratec
-  ats: personio
-  slug: iteratec
-  tags: [咨询与IT服务]
-- name: Agile Robots
-  ats: personio
-  slug: agile-robots
-  tags: [慕尼黑科技/创业]
 - name: Quantum Systems
   ats: personio
   slug: quantum-systems
@@ -167,10 +159,6 @@ companies:
 - name: tado
   ats: personio
   slug: tado
-  tags: [慕尼黑科技/创业]
-- name: EGYM
-  ats: personio
-  slug: egym
   tags: [慕尼黑科技/创业]
 - name: Freeletics
   ats: personio
@@ -184,10 +172,6 @@ companies:
   ats: personio
   slug: finn
   tags: [慕尼黑科技/创业, 汽车与出行]
-- name: Usercentrics
-  ats: personio
-  slug: usercentrics
-  tags: [慕尼黑科技/创业]
 - name: NavVis
   ats: personio
   slug: navvis
@@ -195,10 +179,6 @@ companies:
 - name: TWAICE
   ats: personio
   slug: twaice
-  tags: [慕尼黑科技/创业]
-- name: KINEXON
-  ats: personio
-  slug: kinexon
   tags: [慕尼黑科技/创业]
 - name: Blickfeld
   ats: personio
@@ -208,69 +188,13 @@ companies:
   ats: personio
   slug: magazino
   tags: [慕尼黑科技/创业]
-- name: Marvel Fusion
-  ats: personio
-  slug: marvel-fusion
-  tags: [慕尼黑科技/创业]
-- name: planqc
-  ats: personio
-  slug: planqc
-  tags: [慕尼黑科技/创业]
-- name: Orbem
-  ats: personio
-  slug: orbem
-  tags: [慕尼黑科技/创业]
-- name: Ryte
-  ats: personio
-  slug: ryte
-  tags: [慕尼黑科技/创业]
 - name: HolidayCheck
   ats: personio
   slug: holidaycheck
   tags: [慕尼黑科技/创业]
-- name: Stylight
-  ats: personio
-  slug: stylight
-  tags: [慕尼黑科技/创业]
-- name: Smartlane
-  ats: personio
-  slug: smartlane
-  tags: [慕尼黑科技/创业]
-- name: Roboception
-  ats: personio
-  slug: roboception
-  tags: [慕尼黑科技/创业]
-- name: Franka Robotics
-  ats: personio
-  slug: franka
-  tags: [慕尼黑科技/创业]
-- name: Yoummday
-  ats: personio
-  slug: yoummday
-  tags: [慕尼黑科技/创业]
-- name: Alexander Thamm
-  ats: personio
-  slug: alexanderthamm
-  tags: [咨询与IT服务]
-- name: Machine Learning Reply
-  ats: personio
-  slug: reply
-  tags: [咨询与IT服务]
 - name: TNG Technology Consulting
   ats: personio
   slug: tng
-  tags: [咨询与IT服务]
-- name: mgm technology partners
-  ats: personio
-  slug: mgm-tp
-  tags: [咨询与IT服务]
-- name: Comsysto Reply
-  ats: personio
-  slug: comsysto
-  tags: [咨询与IT服务]
-- name: Netlight
-  ats: personio
-  slug: netlight
   tags: [咨询与IT服务]
 - name: Flix
   ats: smartrecruiters

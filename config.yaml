@@ -267,6 +267,20 @@ location:
 arbeitnow:
   enabled: true
   pages: 30         # 每页约 120 条,按创建时间倒序;德国全境,过滤后慕尼黑只剩一小部分,所以要多翻
+  pause: 1.5        # 页间隔秒数,太快会 429
+
+# ---------- Adzuna(可选,强烈推荐:聚合 StepStone / Indeed 等,覆盖面比 arbeitnow 大得多) ----------
+# 去 https://developer.adzuna.com 免费注册拿 app_id / app_key,
+# 填进仓库 Settings → Secrets → Actions:ADZUNA_APP_ID、ADZUNA_APP_KEY(daily.yml 已经会读),
+# 下次运行自动启用。免费额度每天几百次,这里每天最多用 24 次。
+adzuna:
+  enabled: true
+  where: "München"
+  distance_km: 30
+  max_days_old: 7
+  pages: 3           # 每词最多 3 页 × 50 条
+  queries: ["software engineer", "softwareentwickler", "devops", "cloud engineer", "platform engineer",
+            "machine learning engineer", "ki entwickler", "backend developer"]
 
 # ---------- 联邦劳动局官方接口 ----------
 # 封了 GitHub 服务器的 IP,在 Actions 里拿不到数据;自己电脑上跑时可改成 true。

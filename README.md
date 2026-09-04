@@ -11,6 +11,9 @@
 - **arbeitnow.com** — 德国公开职位接口,GitHub 服务器可达,按创建时间倒序抓 8 页,靠地点过滤留下慕尼黑及周边。
 - **公司直连** — 40 多家公司的招聘系统接口(Celonis、Helsing、Personio、Infineon、SAP、Airbus、Bosch、
   Cloudflare、NVIDIA、Salesforce…)。公司发到自家系统永远早于聚合平台。
+- **Adzuna(可选,强烈推荐)** — 聚合 StepStone / Indeed 等的公开 API,覆盖面比 arbeitnow 大得多。
+  去 https://developer.adzuna.com 免费注册拿 `app_id` / `app_key`,填进仓库
+  Settings → Secrets and variables → Actions:`ADZUNA_APP_ID`、`ADZUNA_APP_KEY`,下次运行自动启用。
 - **联邦劳动局**接口封了 GitHub 的 IP,默认关闭;在自己电脑上跑时把 `config.yaml` 里 `arbeitsagentur.enabled` 改 true 即可。
 
 覆盖不到的:StepStone / LinkedIn / Indeed 独家发布的岗位,以及 BMW、Siemens、Allianz、Google 等
