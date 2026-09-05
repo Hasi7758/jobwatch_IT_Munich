@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 2048 条
+  拿到 2082 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,23 +44,14 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2769 条
+  拿到 2772 条
 丢弃过期职位 2 条(发布超过 365 天)
 
-过滤后 67 / 4817 条符合关键词+地点
+过滤后 67 / 4854 条符合关键词+地点
 
-★ 新职位 12 条
-  · Core Developer - Platform — Parity
-  · Core Developer - Node — Parity
-  · Site Reliability Engineers (SRE) — Xm
-  · Fachinformatiker Systemintegration/ Microsoft 365 Administra — Fierro Hiring Solutions Andrea
-  · Software Engineer – Developer Experience / Tooling (PHP) (m/ — shopware AG
-  · Programmiertutor/Informatiktutor (m/w/d) - complori — Cleverly edu GmbH
-  · C++/Kotlin Software Developer (RustRover Debugger) — jetbrains
-  · Software Engineer - Cloud Infrastructure — Applied
-  · Fullstack Software Engineer, Robotic Solutions Development — intrinsicrobotics
-  · App-Entwickler (m/w/d) - Mobile Payment — petaFuel GmbH
-  · Fullstack-Entwickler mit Schwerpunkt Frontend (m/w/d) — New Monday GmbH
-  · IOS-Entwickler (m/w/d) — petaFuel GmbH
+★ 新职位 3 条
+  · SAP ABAP Entwickler – Fokus Output Management & Formulare -  — 24-LOG GmbH
+  · SAP ABAP Entwickler – Fokus Cloud & API Integration (REST, O — 24-LOG GmbH
+  · Software Engineer – Developer Experience / Tooling (Golang/P — shopware AG
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
