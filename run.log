@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 2082 条
+  拿到 2246 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,14 +44,14 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2772 条
+  拿到 2774 条
 丢弃过期职位 2 条(发布超过 365 天)
 
-过滤后 67 / 4854 条符合关键词+地点
+过滤后 68 / 5020 条符合关键词+地点
 
 ★ 新职位 3 条
-  · SAP ABAP Entwickler – Fokus Output Management & Formulare -  — 24-LOG GmbH
-  · SAP ABAP Entwickler – Fokus Cloud & API Integration (REST, O — 24-LOG GmbH
-  · Software Engineer – Developer Experience / Tooling (Golang/P — shopware AG
+  · Software Engineer — Software Platform & Middleware (Early Ca — Apex Ai
+  · Infrastructure Engineer - Deployments (d/f/m) — Arculus
+  · Python Backend Engineer (m/f/x) — Makersite GmbH
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
