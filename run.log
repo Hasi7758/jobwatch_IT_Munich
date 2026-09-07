@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 2246 条
+  拿到 2600 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,14 +44,24 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2774 条
+  拿到 2770 条
 丢弃过期职位 2 条(发布超过 365 天)
 
-过滤后 68 / 5020 条符合关键词+地点
+过滤后 75 / 5370 条符合关键词+地点
 
-★ 新职位 3 条
-  · Software Engineer — Software Platform & Middleware (Early Ca — Apex Ai
-  · Infrastructure Engineer - Deployments (d/f/m) — Arculus
-  · Python Backend Engineer (m/f/x) — Makersite GmbH
+★ 新职位 13 条
+  · Développeur fullstack confirmé H/F (C#, .Net, Angular) — N2JSoft
+  · Junior Software Engineer (m/f/d) - focus on iOS — Ottonova
+  · Junior Software Engineer - Platforms (all genders) — gridX GmbH
+  · .NET Entwickler und Scrum Master / Teamkoordinator (m/w/d) — G&W Software AG
+  · Webentwickler - Blazor (m/w/d) — G&W Software AG
+  · Full-Stack Entwickler (m/w/d) — G&W Software AG
+  · Golang Entwickler (m/w/d) - Remote (Deutschland) — Muxon
+  · Software Developer Linux Python Integrations (m/w/d) REMOTE — Pont Connects e.K.
+  · AI Developer (m/w/d) — Metanoia IT Solutions GmbH
+  · Java Developer (m/w/d) — Collaboration Betters The Worl
+  · Azure Cloud Engineer — Market Cloud
+  · Java Backend Entwickler - Spring Boot & Camunda (m/w/d) — Rockstardevelopers GmbH
+  · Full-Stack Developer | React/Nextjs, Tailwind, PostgreSQL/Su — ECENT GmbH
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
