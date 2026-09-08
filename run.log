@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 2600 条
+  拿到 3300 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,24 +44,27 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2770 条
+  拿到 2788 条
 丢弃过期职位 2 条(发布超过 365 天)
 
-过滤后 75 / 5370 条符合关键词+地点
+过滤后 89 / 6088 条符合关键词+地点
 
-★ 新职位 13 条
-  · Développeur fullstack confirmé H/F (C#, .Net, Angular) — N2JSoft
-  · Junior Software Engineer (m/f/d) - focus on iOS — Ottonova
-  · Junior Software Engineer - Platforms (all genders) — gridX GmbH
-  · .NET Entwickler und Scrum Master / Teamkoordinator (m/w/d) — G&W Software AG
-  · Webentwickler - Blazor (m/w/d) — G&W Software AG
-  · Full-Stack Entwickler (m/w/d) — G&W Software AG
-  · Golang Entwickler (m/w/d) - Remote (Deutschland) — Muxon
-  · Software Developer Linux Python Integrations (m/w/d) REMOTE — Pont Connects e.K.
-  · AI Developer (m/w/d) — Metanoia IT Solutions GmbH
-  · Java Developer (m/w/d) — Collaboration Betters The Worl
-  · Azure Cloud Engineer — Market Cloud
-  · Java Backend Entwickler - Spring Boot & Camunda (m/w/d) — Rockstardevelopers GmbH
-  · Full-Stack Developer | React/Nextjs, Tailwind, PostgreSQL/Su — ECENT GmbH
+★ 新职位 18 条
+  · AxiomSL Developer/ Implementation Consultant — Excelgens Consulting Sverige A
+  · KI-Entwickler (m/w/d) — Alexander Thamm Gmbh
+  · Full Stack Developer — typeform
+  · Software Engineer (f/m/x) — Tanso
+  · Privatkundenberater (m/w/d) - Entwicklung Private Banking — CUSTOM CAREERS FACTORY GmbH
+  · Software-Entwickler (m/w/x) für Qt-basierte Bedienoberfläche — K-tronik GmbH
+  · Flutter & Node.js Fullstack Engineer (f/m/d) - Fully Remote — memodio
+  · Projektmanager / Prozessmanager (m/w/d) - Remote | Struktur  — Pöhler - Officemanagement
+  · Product Builder (UI/UX Designer & Mobile App Developer) - (m — Luma Life
+  · Automation Developer / Backoffice Automation (m/w/d) — Ecoturn GmbH
+  · Inhouse .NET Backend Entwickler (m/w/d) - Full Remote aus Ba — DWWA Personalberatung GmbH
+  · SAP ABAP Entwickler — Pertemps ERP
+  · Freelancer Frontend-Entwickler (m/w/d) WinUI / XAML / .NET — senswork GmbH
+  · Backend Software Engineer - AI Systems (m/w/d) — HAIAR GmbH
+  · No-Code Developer 100% Remote | Bubble.io (m/w/d) — ALPHA Software GmbH
+  …另有 3 条
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
