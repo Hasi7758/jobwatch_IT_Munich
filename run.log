@@ -1,7 +1,7 @@
 抓取 arbeitnow…
   拿到 3300 条
 抓取公司 ATS…
-  [OK] Konux (greenhouse)
+  [失败] Konux (greenhouse): ConnectionError ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
   [OK] Isar Aerospace (greenhouse)
   [OK] Brainlab (smartrecruiters)
   [OK] ProGlove (personio)
@@ -44,14 +44,20 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2840 条
+  拿到 2836 条
 丢弃过期职位 2 条(发布超过 365 天)
 
-过滤后 59 / 6140 条符合关键词+地点
+过滤后 63 / 6136 条符合关键词+地点
 
-★ 新职位 3 条
-  · Software Engineer - Simulation Platform — Proxima Fusion GmbH
-  · Blockchain / DLT Developer — Delta Capita
-  · Full Stack Developer — Vetaion GmbH
+★ 新职位 9 条
+  · Fullstack Software Engineer (m/w/d) — Rhein Nadel Automation Gmbh
+  · Software Engineer (all genders) — Raysono
+  · Full-Stack Software Engineer (m/f/d) — TWAICE
+  · Junior AI Application Engineer – AI Products (LLM & RAG) (m/ — Machine Learning Reply
+  · AI Developer (m/f/d) — Partspace
+  · Java Backend Developer (m/w/d) — Avelion Group
+  · Infrastructure Engineer - Deployments (d/f/m) — Arculus
+  · IT Administrator – operativer Betrieb & DevOps (all Genders) — Global Side Gmbh
+  · Backend Engineer - Agentic AI (m/w/d) — Getpress Gmbh
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
