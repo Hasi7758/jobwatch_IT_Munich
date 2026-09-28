@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 3450 条
+  拿到 3451 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,16 +44,20 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2805 条
+  拿到 2803 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 80 / 6255 条符合关键词+地点
+过滤后 81 / 6254 条符合关键词+地点
 
-★ 新职位 5 条
-  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
-  · Remote Softwareentwicklung Gesundheitswesen | Modernes Tech- — Medconomy GmbH
-  · Forward Deployed AI Engineer — Agilerobotsse
-  · Software Engineer, Backend — Sevenroomsuk
-  · Software Engineer, Infrastructure - Self Managed Experience  — Camunda
+★ 新职位 9 条
+  · Software Engineer (Integrations) — Ddome
+  · AI Engineer — Ddome
+  · GenAI/ML Engineer — capco
+  · Fullstack Software Engineer — nozominetworks
+  · Software-Ingenieur:in Robotics — cross-ING AG
+  · Backend Engineer - Agentic AI (m/w/d) — Getpress Gmbh
+  · Site Reliability Engineer / SRE (all genders) — Lio
+  · Full-Stack Developer — FUNDED
+  · Software Engineer AI (m/w/d) — Digitale Leute School
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
