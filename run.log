@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 3451 条
+  拿到 3296 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,20 +44,24 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2803 条
+  拿到 2810 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 81 / 6254 条符合关键词+地点
+过滤后 88 / 6106 条符合关键词+地点
 
-★ 新职位 9 条
-  · Software Engineer (Integrations) — Ddome
-  · AI Engineer — Ddome
-  · GenAI/ML Engineer — capco
-  · Fullstack Software Engineer — nozominetworks
-  · Software-Ingenieur:in Robotics — cross-ING AG
-  · Backend Engineer - Agentic AI (m/w/d) — Getpress Gmbh
-  · Site Reliability Engineer / SRE (all genders) — Lio
-  · Full-Stack Developer — FUNDED
-  · Software Engineer AI (m/w/d) — Digitale Leute School
+★ 新职位 13 条
+  · Platform Engineer — Manygroup
+  · Full Stack Developer, Multichannel Experience — Sofitechsolutions
+  · Fullstack Software Engineer (m/w/d) — Rhein Nadel Automation Gmbh
+  · Software Engineer (all genders) — Raysono
+  · Full-Stack Software Engineer (m/f/d) — TWAICE
+  · Junior Fullstack Entwickler Fokus Next.js — Attek Solutions GmbH
+  · Fullstack Entwickler Fokus Next.js — Attek Solutions GmbH
+  · Full Stack Developer — Bookboost
+  · AI Developer (m/f/d) — Partspace
+  · Java Backend Developer (m/w/d) — Avelion Group
+  · IT Administrator – operativer Betrieb & DevOps (all Genders) — Global Side Gmbh
+  · Java-Entwickler (m/w/d) neues Krankenversicherungssystem — citema systems GmbH
+  · AI Full-Stack Developer — Nebius
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
