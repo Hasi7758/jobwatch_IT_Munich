@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 3296 条
+  拿到 2983 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,24 +44,25 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2810 条
+  拿到 2826 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 88 / 6106 条符合关键词+地点
+过滤后 82 / 5809 条符合关键词+地点
 
-★ 新职位 13 条
-  · Platform Engineer — Manygroup
-  · Full Stack Developer, Multichannel Experience — Sofitechsolutions
-  · Fullstack Software Engineer (m/w/d) — Rhein Nadel Automation Gmbh
-  · Software Engineer (all genders) — Raysono
-  · Full-Stack Software Engineer (m/f/d) — TWAICE
-  · Junior Fullstack Entwickler Fokus Next.js — Attek Solutions GmbH
-  · Fullstack Entwickler Fokus Next.js — Attek Solutions GmbH
-  · Full Stack Developer — Bookboost
-  · AI Developer (m/f/d) — Partspace
-  · Java Backend Developer (m/w/d) — Avelion Group
-  · IT Administrator – operativer Betrieb & DevOps (all Genders) — Global Side Gmbh
-  · Java-Entwickler (m/w/d) neues Krankenversicherungssystem — citema systems GmbH
-  · AI Full-Stack Developer — Nebius
+★ 新职位 14 条
+  · Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschre — uNaice GmbH
+  · Platform Engineer (m/f/d) — Ecoplanet Green Operations Gmb
+  · Software Engineer (Repositories) — chainguard
+  · Network Developer — Share
+  · Scrum Master / Delivery Enabler (m/w/d) - KI-gestützte Softw — Maibornwolff
+  · Java Developer (m/w/d) — Collaboration Betters The Worl
+  · Software Development Engineer (m/w/d) — ECOZA GmbH
+  · Fullstack Engineer (m/w/d) — ECOZA GmbH
+  · Associate Software Engineer (m/w/d) — ECOZA GmbH
+  · Machine Learning / Applied AI Engineer (m/w/d) — ECOZA GmbH
+  · DevOps Engineer (all genders) — Holidu
+  · Web Developer (m/f/d) — Neuverge Tron
+  · Web-Entwickler (m/w/d) Wordpress, PHP, Hosting in Teilzeit — FastRocket GmbH
+  · Applied AI Engineer  — Brainlab
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
