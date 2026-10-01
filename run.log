@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 2983 条
+  拿到 2951 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,25 +44,27 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2826 条
+  拿到 2841 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 82 / 5809 条符合关键词+地点
+过滤后 92 / 5792 条符合关键词+地点
 
-★ 新职位 14 条
-  · Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschre — uNaice GmbH
-  · Platform Engineer (m/f/d) — Ecoplanet Green Operations Gmb
-  · Software Engineer (Repositories) — chainguard
-  · Network Developer — Share
-  · Scrum Master / Delivery Enabler (m/w/d) - KI-gestützte Softw — Maibornwolff
-  · Java Developer (m/w/d) — Collaboration Betters The Worl
-  · Software Development Engineer (m/w/d) — ECOZA GmbH
-  · Fullstack Engineer (m/w/d) — ECOZA GmbH
-  · Associate Software Engineer (m/w/d) — ECOZA GmbH
-  · Machine Learning / Applied AI Engineer (m/w/d) — ECOZA GmbH
-  · DevOps Engineer (all genders) — Holidu
-  · Web Developer (m/f/d) — Neuverge Tron
-  · Web-Entwickler (m/w/d) Wordpress, PHP, Hosting in Teilzeit — FastRocket GmbH
-  · Applied AI Engineer  — Brainlab
+★ 新职位 20 条
+  · Java Softwareentwickler/in mit Karriereambitionen - jetzt mi — Auralis Group
+  · Salesforce Developer (m/w/d) — Netzfrequenz GmbH
+  · Graduate Software Engineer - defence and security (2027 star — Cambridgeconsultantslimited
+  · Graduate Software Engineer (2027 start) — Cambridgeconsultantslimited
+  · Conversational AI Application Developer (English and French  — Omilia Natural Language Soluti
+  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
+  · Software Engineer Backend / KI (m/w/d) — Intrafind Software Ag
+  · Full Stack Software Engineer (Angular/Python) — Lobster Data Gmbh
+  · Contract Platform Engineer — Yld
+  · Customer Reliability Engineer — Tailscale
+  · Forward Deployed AI Engineer — gravity9
+  · C++ Software Engineer (m/f/d) Platform Infrastructure — Agilerobotsse
+  · Platform & Reliability Engineer (all genders) — Contabo
+  · Full-Stack TypeScript Developer (m/w/d) (React/Next.js) — Boot1 GmbH
+  · Cloud Engineer (m/w/x) – Cloud-Betrieb von SaaS-Lösungen — VertiGIS GmbH
+  …另有 5 条
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
