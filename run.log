@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 2988 条
+  拿到 3040 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,20 +44,23 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2833 条
+  拿到 2844 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 88 / 5821 条符合关键词+地点
+过滤后 79 / 5884 条符合关键词+地点
 
-★ 新职位 9 条
-  · Fullstack Developer: Frontend, UX, Mobile - Legal AI (m/w/d) — Silvernova GmbH
-  · Frontend Engineer (f/m/d) — Manex AI GmbH
-  · Fullstack Entwickler (m/w/d) — ICT Digital Solutions
-  · Software Engineer, Backend (m/w/d) — Claid
-  · Algorithm Developer (m/w/x) — RIZM
-  · Web Developer | Full Time (m/w/d) — CONROO GmbH
-  · Java Entwickler DevOps (m/w/d) — hubside - Die Recruitingwerkst
-  · Tech-Talente: Frontend, Backend, Fullstack & DevOps — bits&birds GmbH
-  · Site Reliability Engineer - VMware & Cloud — Brainlab
+★ 新职位 12 条
+  · Full Stack Developer — Bookboost
+  · AI Developer (m/f/d) — Partspace
+  · Java Backend Developer (m/w/d) — Avelion Group
+  · IT Administrator – operativer Betrieb & DevOps (all Genders) — Global Side Gmbh
+  · AI Full-Stack Developer — Nebius
+  · Java Entwickler:in / Java Developer Backend (w/m/d) — BBHT Beratungsgesellschaft mbH
+  · Software Engineer (m/f/d) Industrial Robot Control — Agilerobotsse
+  · Backend Engineer - Agentic AI (m/w/d) — Getpress Gmbh
+  · Softwareentwickler Client-Server-Anwendungen (m/w/d) — MY Humancapital GmbH
+  · Inhouse DevOps / Platform Engineer (m/w/d) - 100% remote — DWWA Personalberatung GmbH
+  · Frontend Softwareentwickler (m/w/d) — TecFox GmbH
+  · Fullstack Softwareentwickler (m/w/d) — TecFox GmbH
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
