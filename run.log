@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 3040 条
+  拿到 3080 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,23 +44,20 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2844 条
+  拿到 2842 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 79 / 5884 条符合关键词+地点
+过滤后 81 / 5922 条符合关键词+地点
 
-★ 新职位 12 条
-  · Full Stack Developer — Bookboost
-  · AI Developer (m/f/d) — Partspace
-  · Java Backend Developer (m/w/d) — Avelion Group
-  · IT Administrator – operativer Betrieb & DevOps (all Genders) — Global Side Gmbh
-  · AI Full-Stack Developer — Nebius
-  · Java Entwickler:in / Java Developer Backend (w/m/d) — BBHT Beratungsgesellschaft mbH
-  · Software Engineer (m/f/d) Industrial Robot Control — Agilerobotsse
-  · Backend Engineer - Agentic AI (m/w/d) — Getpress Gmbh
-  · Softwareentwickler Client-Server-Anwendungen (m/w/d) — MY Humancapital GmbH
-  · Inhouse DevOps / Platform Engineer (m/w/d) - 100% remote — DWWA Personalberatung GmbH
-  · Frontend Softwareentwickler (m/w/d) — TecFox GmbH
-  · Fullstack Softwareentwickler (m/w/d) — TecFox GmbH
+★ 新职位 9 条
+  · Scrum Master / Delivery Enabler (m/w/d) - KI-gestützte Softw — Maibornwolff
+  · Junior Backend Developer, C# .Net - Paris — shifttechnology
+  · Graduate Human-Centric AI Engineer (2027 start) — Cambridgeconsultantslimited
+  · Graduate Electronics & Software Engineer (2027 start) — Cambridgeconsultantslimited
+  · Graduate Cloud Software Engineer (2027 start) — Cambridgeconsultantslimited
+  · Graduate AI Engineer (2027 start) — Cambridgeconsultantslimited
+  · Fullstack Software Engineer (m/w/d) — Rhein Nadel Automation Gmbh
+  · Software Engineer (all genders) — Raysono
+  · Full-Stack Software Engineer (m/f/d) — TWAICE
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
