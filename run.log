@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 3053 条
+  拿到 3061 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,17 +44,12 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2832 条
+  拿到 2852 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 73 / 5885 条符合关键词+地点
+过滤后 69 / 5913 条符合关键词+地点
 
-★ 新职位 6 条
-  · Software Engineer Backend / KI (m/w/d) - verhandlungssichere — Intrafind Software Ag
-  · Platform & Reliability Engineer (all genders) — Contabo
-  · Software Engineer – Internal Tools & Automation (m/w/d) — Wattfox
-  · Systemadministratorin (m/w/d) Administration und Weiterentwi — Lrz
-  · Fachinformatikerin (m/w/d) - Systemintegration — Lrz
-  · Platform Engineer (m/f/d) — Ecoplanet Green Operations Gmb
+★ 新职位 1 条
+  · Fullstack Developer (m/f/d) System Modernization & Strategic — primion Technology GmbH
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
