@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 3061 条
+  拿到 3213 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -23,7 +23,7 @@
   [OK] Cloudflare (greenhouse)
   [OK] Palantir (lever)
   [OK] Okta (greenhouse)
-  [OK] Twilio (greenhouse)
+  [失败] Twilio (greenhouse): ReadTimeout HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=20)
   [OK] GitLab (greenhouse)
   [OK] Thoughtworks (greenhouse)
   [OK] Celonis (greenhouse)
@@ -44,12 +44,22 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2852 条
+  拿到 2725 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 69 / 5913 条符合关键词+地点
+过滤后 70 / 5938 条符合关键词+地点
 
-★ 新职位 1 条
-  · Fullstack Developer (m/f/d) System Modernization & Strategic — primion Technology GmbH
+★ 新职位 11 条
+  · Agentic AI Software Engineer — Machine Learning Reply
+  · IT Administrator – operativer Betrieb & DevOps (all Genders) — Global Side Gmbh
+  · Junior Software Developer - (m/w/d) — HanseSecure GmbH
+  · AI Platform Engineer (f/m/d) — idnow
+  · DevOps Engineer (m/w/d) — Interlead GmbH
+  · Backend Engineer - Agentic AI (m/w/d) — Getpress Gmbh
+  · Full-Stack Softwareentwickler (m/w/d) React/Next.js oder Ang — FastRocket GmbH
+  · Principle Software Engineer - Product, Platform, Infrastruct — Ayunis
+  · Frontend Developer E-Commerce mit Fokus Shopify — Kijimea
+  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
+  · Contract Golang Software Engineer (Remote Europe) — YLD.com
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
