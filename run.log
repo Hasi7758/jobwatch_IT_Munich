@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 3177 条
+  拿到 3450 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -32,39 +32,39 @@
   [OK] Contabo (personio)
   [OK] QAware (personio)
   [OK] MaibornWolff (personio)
-  [OK] Quantum Systems (personio)
+  [失败] Quantum Systems (personio): HTTPError 503 Server Error: Service Unavailable for url: https://quantum-systems.jobs.personio.de/xml
   [OK] tado (personio)
   [OK] Freeletics (personio)
   [OK] Westwing (personio)
-  [OK] FINN (personio)
-  [OK] NavVis (personio)
+  [失败] FINN (personio): HTTPError 503 Server Error: Service Unavailable for url: https://finn.jobs.personio.de/xml
+  [失败] NavVis (personio): HTTPError 503 Server Error: Service Unavailable for url: https://navvis.jobs.personio.de/xml
   [OK] TWAICE (personio)
   [OK] Blickfeld (personio)
   [OK] Magazino (personio)
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2865 条
+  拿到 3203 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 73 / 6042 条符合关键词+地点
+过滤后 88 / 6653 条符合关键词+地点
 
-★ 新职位 19 条
-  · Full-Stack Engineer | Web Crawling (m/f/d) — Certivity
-  · iOS Developer (Radiotech) — Gismart
-  · Junior Cloud Operations Engineer (all genders) CH — BSI Software
-  · Fullstack Software Engineer (m/w/d) — Rhein Nadel Automation Gmbh
-  · iOS Developer (Radiotech) — Gismart
-  · Venture Developer (m/f/d) — EBIT Ventures
+★ 新职位 18 条
+  · DevOps Engineer - Kubernetes Cloud (m/w/d) — machineering
+  · Web Developer (all genders) — Contabo
+  · Platform & Reliability Engineer (all genders) — Contabo
+  · Software Engineer, Clinical AI Devices — DeepHealth
   · Applied AI Engineer — ElevenLabs
   · Full-stack Engineer - Creative Agents — ElevenLabs
   · Full-Stack Engineer (Backend Leaning) - Creative Agents — ElevenLabs
-  · Forward Deployed AI Engineer Energy (m/w/d) — KnowWay GmbH
-  · Full Stack Developer — Bookboost
-  · Java Backend Developer (m/w/d) — Avelion Group
-  · Technical Writer - Information Developer (m/w/x) — K-tronik GmbH
-  · Entwicklungsingenieur Hydraulik (m/w/d) - Hydraulische Stoßd — SCHNETZ
-  · Developer (m/w/d) E-Commerce — Active Nutrition International
-  …另有 4 条
+  · Software Engineer, Product (Full-Stack: Angular, Kotlin, Mon — Vestlane
+  · Software Engineer – Internal Tools & Automation (m/w/d) — Wattfox
+  · Systemadministratorin (m/w/d) Administration und Weiterentwi — Lrz
+  · Fachinformatikerin (m/w/d) - Systemintegration — Lrz
+  · Platform Engineer (m/f/d) — Ecoplanet Green Operations Gmb
+  · Software Engineer (all gender) — Kranus Health Gmbh
+  · Applied AI Engineer, Enterprise — anthropic
+  · Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m — BBHT Beratungsgesellschaft mbH
+  …另有 3 条
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
