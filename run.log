@@ -32,39 +32,36 @@
   [OK] Contabo (personio)
   [OK] QAware (personio)
   [OK] MaibornWolff (personio)
-  [失败] Quantum Systems (personio): HTTPError 503 Server Error: Service Unavailable for url: https://quantum-systems.jobs.personio.de/xml
+  [失败] Quantum Systems (personio): HTTPError 404 Client Error: Not Found for url: https://quantum-systems.jobs.personio.de/xml
   [OK] tado (personio)
   [OK] Freeletics (personio)
   [OK] Westwing (personio)
-  [失败] FINN (personio): HTTPError 503 Server Error: Service Unavailable for url: https://finn.jobs.personio.de/xml
-  [失败] NavVis (personio): HTTPError 503 Server Error: Service Unavailable for url: https://navvis.jobs.personio.de/xml
+  [失败] FINN (personio): HTTPError 404 Client Error: Not Found for url: https://finn.jobs.personio.de/xml
+  [失败] NavVis (personio): HTTPError 404 Client Error: Not Found for url: https://navvis.jobs.personio.de/xml
   [OK] TWAICE (personio)
   [OK] Blickfeld (personio)
   [OK] Magazino (personio)
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 3203 条
+  拿到 2888 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 88 / 6653 条符合关键词+地点
+过滤后 108 / 6338 条符合关键词+地点
 
-★ 新职位 18 条
-  · DevOps Engineer - Kubernetes Cloud (m/w/d) — machineering
-  · Web Developer (all genders) — Contabo
-  · Platform & Reliability Engineer (all genders) — Contabo
-  · Software Engineer, Clinical AI Devices — DeepHealth
-  · Applied AI Engineer — ElevenLabs
-  · Full-stack Engineer - Creative Agents — ElevenLabs
-  · Full-Stack Engineer (Backend Leaning) - Creative Agents — ElevenLabs
-  · Software Engineer, Product (Full-Stack: Angular, Kotlin, Mon — Vestlane
-  · Software Engineer – Internal Tools & Automation (m/w/d) — Wattfox
-  · Systemadministratorin (m/w/d) Administration und Weiterentwi — Lrz
-  · Fachinformatikerin (m/w/d) - Systemintegration — Lrz
-  · Platform Engineer (m/f/d) — Ecoplanet Green Operations Gmb
-  · Software Engineer (all gender) — Kranus Health Gmbh
-  · Applied AI Engineer, Enterprise — anthropic
-  · Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m — BBHT Beratungsgesellschaft mbH
-  …另有 3 条
+★ 新职位 13 条
+  · Software Engineer - Java (w/m/d) — Timetoact Group
+  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
+  · Full Stack Product Engineer (m/w/d) – Bling Schule — Bling
+  · Software Engineer, AI Enablement — Tailscale
+  · Software Engineer Backend / KI (m/w/d) - verhandlungssichere — Intrafind Software Ag
+  · Cloud Engineer — RobCo
+  · Backend Developer — Qwello.eu
+  · Full Stack Engineer: Retail Media — Constructor
+  · Machine Learning Engineer: Ranking & Personalization — Constructor
+  · Softwareentwickler Client-Server-Anwendungen (m/w/d) — MY Humancapital GmbH
+  · IT Consultant Versicherungsbranche (w/m/d) — Cognitivo AG
+  · Full Stack Developer PHP / TypeScript in Hamburg oder Remote — DEMV Systems Gmbh
+  · Scrum Master / Delivery Enabler (m/w/d) - KI-gestützte Softw — Maibornwolff
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
