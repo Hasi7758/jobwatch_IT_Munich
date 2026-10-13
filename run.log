@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 3450 条
+  拿到 6577 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,26 +44,24 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2881 条
+  拿到 2886 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 104 / 6331 条符合关键词+地点
+过滤后 103 / 9463 条符合关键词+地点
 
-★ 新职位 15 条
-  · Software Engineer (f/d/m) — Entrix GmbH
-  · AI Platform Engineer (m/w/d) — ANGEHEUERT GmbH Personalberatu
-  · Computer Vision & AI Engineer - Interceptor C‑UAS (m/f/d) — Quantum-Systems GmbH
-  · IT Consultant Banking & Payment (w/m/d) — Cognitivo AG
-  · IT Administrator – operativer Betrieb & DevOps (all Genders) — Zabas Factory Portugal Unipess
-  · IT Consultant Versicherungsbranche (w/m/d) — Cognitivo AG
-  · Entwickler / Systemdesigner / Ingenieur Hud & Aerospace (M/W — Vision-Dynamics GmbH
-  · Software Engineer (all genders) — Raysono
-  · Full-Stack Software Engineer (m/f/d) — TWAICE
+★ 新职位 13 条
   · DevOps Engineer (m/w/d) — ICT Digital Solutions
-  · Fullstack Entwickler (m/w/d) — ICT Digital Solutions
-  · Full Stack Developer — Bookboost
-  · Full Stack Engineer – Frontend Focus (m/f/d) — Alpineeagle
-  · Software Engineer – Aerial Swarming (All Genders) — Skdse
-  · Payload Flight Software Engineer — Constellrgmbh
+  · Computer Vision & AI Engineer - Interceptor C‑UAS (m/f/d) — Quantum-Systems GmbH
+  · Scrum Master / Delivery Enabler (m/w/d) - KI-gestützte Softw — Maibornwolff
+  · Foward Deployed AI Engineer (m/d/w) — Neurawork GmbH & Co. KG
+  · Full Stack Engineer — Redwoodsoftware
+  · Full Stack Engineer  - Cloud & SaaS Integrations — Doitintl
+  · AI Platform Engineer — Super
+  · Full-stack Engineer - Creative Agents — ElevenLabs
+  · Full-Stack Engineer (Backend Leaning) - Creative Agents — ElevenLabs
+  · Software Engineer, Infrastructure - Self Managed Experience  — Camunda
+  · Software Engineer, Engineering Operations — Camunda
+  · Full Stack Developer (node.js) — Delta Capita
+  · Full Stack Engineer — Souk
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
