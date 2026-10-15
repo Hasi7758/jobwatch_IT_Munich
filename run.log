@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 6790 条
+  拿到 6682 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,27 +44,23 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2912 条
+  拿到 3219 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 113 / 9702 条符合关键词+地点
+过滤后 116 / 9901 条符合关键词+地点
 
-★ 新职位 21 条
-  · Full-Stack Engineer - ElevenMusic — ElevenLabs
-  · Full-Stack Engineer (Backend-Leaning) - CoreMusic — ElevenLabs
-  · Full-Stack Engineer - Productions — ElevenLabs
-  · Full-Stack Engineer (Frontend-Leaning) - CreativeMusic — ElevenLabs
-  · Applied AI Engineer — ElevenLabs
-  · Developer Experience Engineer — ElevenLabs
-  · Software Development Engineer in Test | Luma — Dotmatics
-  · Backend Developer .Net - Remote from EU - Deadline 27/10/26 — AlmavivA de Belgique
-  · DevOps Engineer — Swarmaero
-  · Backend Engineer — Duna
-  · Software Engineer, Real-Time Systems (Early Career) — Swarmaero
-  · Software Engineer, Robotics — Swarmaero
-  · Software Engineer, Autonomy — Swarmaero
-  · AI Platform Engineer (m/w/d) — ANGEHEUERT GmbH
-  · Web Developer (all genders) — Contabo
-  …另有 6 条
+★ 新职位 12 条
+  · Frontend Engineer - Agentic AI — Hawk
+  · Software Engineer, ML Ops and Platform — Tools for Humanity
+  · 2027 Graduate Software Engineer - Healthcare (2027 start) — Cambridgeconsultantslimited
+  · DevOps / Platform Engineer — Scientific Computing — Constructor Labs
+  · KI-Engineer- Beratung & Implementation (m/w/d) — Neurawork GmbH & Co. KG
+  · DevOps Engineer with AI/ML Evaluation Focus — Agilerobotsse
+  · Applied AI Engineer, Digital Natives — OpenAI
+  · AI/ML Engineer (f/m/d) — Valova
+  · iOS Developer — Dawn Technology
+  · Backend Software Developer — Dawn Technology
+  · MuleSoft Developer (m/w/d) — Netzfrequenz GmbH
+  · Software Engineer – R&D Orthopedic Surgery — Brainlab
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
