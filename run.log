@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 6682 条
+  拿到 6589 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,23 +44,23 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 3219 条
+  拿到 3227 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 116 / 9901 条符合关键词+地点
+过滤后 117 / 9816 条符合关键词+地点
 
 ★ 新职位 12 条
-  · Frontend Engineer - Agentic AI — Hawk
-  · Software Engineer, ML Ops and Platform — Tools for Humanity
-  · 2027 Graduate Software Engineer - Healthcare (2027 start) — Cambridgeconsultantslimited
-  · DevOps / Platform Engineer — Scientific Computing — Constructor Labs
-  · KI-Engineer- Beratung & Implementation (m/w/d) — Neurawork GmbH & Co. KG
-  · DevOps Engineer with AI/ML Evaluation Focus — Agilerobotsse
-  · Applied AI Engineer, Digital Natives — OpenAI
-  · AI/ML Engineer (f/m/d) — Valova
-  · iOS Developer — Dawn Technology
-  · Backend Software Developer — Dawn Technology
-  · MuleSoft Developer (m/w/d) — Netzfrequenz GmbH
-  · Software Engineer – R&D Orthopedic Surgery — Brainlab
+  · AI Engineer (m/f/x) — commercetools
+  · E-Commerce Developer – AI & Automation — Kijimea
+  · ML Engineer (Computer Vision & ML Ops) — StellDirVor GmbH
+  · Machine Learning Engineer (Remote) — Stackadapt
+  · Software Entwickler:in mit Schwerpunkt GenAI — Mayflower GmbH
+  · IT-Consultant (m/w/d) — Leafworks GmbH
+  · Forward Deployed AI Engineer — CHAPTERS Group AG
+  · Full-Stack Engineer (Backend Leaning) - Payments Engineering — ElevenLabs
+  · Full-Stack Engineer (Backend Leaning) - Platform Engineering — ElevenLabs
+  · Full-Stack Engineer (Frontend Leaning) - Studio — ElevenLabs
+  · Full-Stack Engineer (Backend Leaning) - Studio — ElevenLabs
+  · Platform Engineer - GitLab & Automation (m/w/d) — CPU Consulting & Software GmbH
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
