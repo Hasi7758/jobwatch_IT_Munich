@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 6568 条
+  拿到 6153 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -47,24 +47,18 @@
   拿到 3246 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 133 / 9814 条符合关键词+地点
+过滤后 117 / 9399 条符合关键词+地点
 
-★ 新职位 28 条
-  · Full-Stack Engineer — AI Authoring Platform — Tracium GmbH
-  · Cloud Engineer (All genders) — Skdse
-  · Software Engineer II, Fullstack (International) — Affirm
-  · Contract Software Engineer - DOM Core Firefox/Gecko — mozilla
-  · Softwareentwickler Client-Server-Anwendungen (m/w/d) — MY Humancapital GmbH
-  · Robotics Software Engineer (m/f/d) AI Tools & Integration — Agilerobotsse
-  · Machine Learning Engineer (m/f/d) VLA Training & Evaluation — Agilerobotsse
+★ 新职位 10 条
+  · Machine Learning Engineer (Computer Vision & VLM) — orcristtechnologies
+  · Linux Software Engineer (m/f/d) — Quantum-Systems GmbH
+  · Software Engineer - Cloud Infrastructure — Applied
+  · SQL Developer – AI Prompting & Context Engineering — Bromcom Computers Plc
+  · Fullstack Engineer - AgenticOps (100% Remote) — Tether Operations Limited
   · Founding Platform Engineer — Mlabs
-  · Frontend Softwareentwickler (m/w/d) — TecFox GmbH
-  · Fullstack Softwareentwickler (m/w/d) — TecFox GmbH
-  · AI Engineer I — Globalizationpartners
-  · Software Developer Full Stack (m/f/d) - remote option — PRIOjet GmbH
-  · Cloud & AI Infrastructure Engineer (m/w/d) — adconova GmbH
-  · Fachinformatiker Systemintegration m/w/d — Südwest IT GmbH Systemhaus Stu
-  · Salesforce Developer (all genders) — InfoTip Service GmbH
-  …另有 13 条
+  · Fullstack-Softwareentwickler (m/w/d) — Lippe Personal GmbH
+  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
+  · Cloud Engineer (m/w/d) mit Karriereambitionen! — Auralis Group
+  · Java Softwareentwickler/in mit Karriereambitionen - jetzt mi — Auralis Group
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
