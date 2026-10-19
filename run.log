@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 6153 条
+  拿到 6918 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -16,7 +16,7 @@
   [OK] SAP (successfactors)
   [OK] Intel (workday)
   [OK] NVIDIA (workday)
-  [OK] Salesforce (workday)
+  [失败] Salesforce (workday): HTTPError 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
   [OK] Adobe (workday)
   [OK] Micron (workday)
   [OK] AMD (phenom)
@@ -44,21 +44,22 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 3246 条
+  拿到 3184 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 117 / 9399 条符合关键词+地点
+过滤后 122 / 10102 条符合关键词+地点
 
-★ 新职位 10 条
-  · Machine Learning Engineer (Computer Vision & VLM) — orcristtechnologies
-  · Linux Software Engineer (m/f/d) — Quantum-Systems GmbH
-  · Software Engineer - Cloud Infrastructure — Applied
-  · SQL Developer – AI Prompting & Context Engineering — Bromcom Computers Plc
-  · Fullstack Engineer - AgenticOps (100% Remote) — Tether Operations Limited
-  · Founding Platform Engineer — Mlabs
-  · Fullstack-Softwareentwickler (m/w/d) — Lippe Personal GmbH
-  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
-  · Cloud Engineer (m/w/d) mit Karriereambitionen! — Auralis Group
-  · Java Softwareentwickler/in mit Karriereambitionen - jetzt mi — Auralis Group
+★ 新职位 11 条
+  · Fullstack Entwickler:in — Coopers Group AG
+  · Azure DevOps Engineer — Coopers Group AG
+  · Full-Stack & Mobile Engineer — NAIRON
+  · Voice AI Engineer — NAIRON
+  · Backend Developer .Net - Remote from EU - Deadline 27/10/26 — AlmavivA de Belgique
+  · Stage Développeur Full Stack (H/F) — OHana Entreprise
+  · LSenior Java Entwickler:in — Coopers Group AG
+  · Full Stack Engineer (Elixir Backend Focus) — qiibee
+  · DWH Entwickler:in — Coopers Group AG
+  · SharePoint Entwickler:in (On-Premises) — Coopers Group AG
+  · Wordpress Developer - Frontend Design - Freelancer — S. Med
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
