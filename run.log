@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 6496 条
+  拿到 6196 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,16 +44,24 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2920 条
+  拿到 2929 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 118 / 9416 条符合关键词+地点
+过滤后 113 / 9125 条符合关键词+地点
 
-★ 新职位 5 条
-  · Entwicklungsingenieur Simulation (m/w/d) — MY Humancapital GmbH
-  · IT Consultant / Business Analyst (m/w/d) — much. GmbH
-  · Fullstack Engineer (m/w/d) — Simpleprax
-  · Full-stack Developer — ADOMIK
-  · Cloud Engineer (f/m/d) — Trusted Shops SE (DE)
+★ 新职位 13 条
+  · Platform Engineer (f/m/d) — Spread Group
+  · Software Engineer, AI Enablement — Tailscale
+  · Full Stack Blockchain Engineer for RWA market — Blockvora
+  · Full-Stack Engineer - ElevenMusic — ElevenLabs
+  · Full-Stack Engineer (Backend Leaning) - CoreMusic — ElevenLabs
+  · Software Engineer, Applied AI — Circuithub
+  · Software Engineer, Product — Circuithub
+  · Software Engineer, Front End & Design — Circuithub
+  · Software Engineer, Computer Vision — Circuithub
+  · Software Engineer, Robotics — Circuithub
+  · Software Engineer, Haskell — Circuithub
+  · Full-Stack Developer (m/w/d) — Pixida Group
+  · Graduate Software Developer — City Science
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
