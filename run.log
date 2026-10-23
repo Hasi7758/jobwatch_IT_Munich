@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5568 条
+  拿到 5569 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,17 +44,19 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 3297 条
+  拿到 2943 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 101 / 8865 条符合关键词+地点
+过滤后 76 / 8512 条符合关键词+地点
 
-★ 新职位 6 条
-  · Platform Engineer (m/w/d) — QualityMinds GmbH
-  · Java Entwickler:in / Java Developer Backend (w/m/d) — BBHT Beratungsgesellschaft mbH
-  · Python &amp; Cloud Native Software Engineer (76078) — IQ Plus AG
-  · Contract Software Engineer - WebCompat Tooling (Dashboards a — mozilla
-  · Web, Backend & Infrastructure Developer (m/w/d) — _app:soluts/* GmbH
-  · Mobile & Web Developer (m/w/d) - Schwerpunkt Kotlin Multipla — _app:soluts/* GmbH
+★ 新职位 8 条
+  · Backend Developer .Net - Remote from EU - Deadline 27/10/26 — AlmavivA de Belgique
+  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
+  · Computer Radar Software Engineer for Drone Systems (m/w/d) — Alpineeagle
+  · Full-Stack Engineer (Frontend Leaning) - Studio — ElevenLabs
+  · Software Engineer II - EDR Workflows - Security — Elastic
+  · Software Engineer - Java — Xdesign
+  · System en Cloud Engineer | Randstad — VDK Groep B.V.
+  · Softwareentwickler C++ / Qt — MY Humancapital GmbH
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
