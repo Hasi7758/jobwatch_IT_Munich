@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5590 条
+  拿到 5722 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -47,22 +47,14 @@
   拿到 2963 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 86 / 8553 条符合关键词+地点
+过滤后 82 / 8685 条符合关键词+地点
 
-★ 新职位 14 条
-  · Software Engineer – Cloud Services – Rust — Tensordyne
-  · Ops/Developer Platform Engineer — Tensordyne
-  · IT Cloud Administrator (f/m/d) — Munich Electrification
-  · DevOps/ML Engineer (m/f/d) — Machine Learning Reply
-  · Junior AI Application Engineer – AI Products (LLM & RAG) (m/ — Machine Learning Reply
-  · Backend Engineer — Blockvora
-  · Softwareentwickler C++ / Qt — MY Humancapital GmbH
-  · Entwicklungsingenieur Simulation (m/w/d) — MY Humancapital GmbH
-  · Softwareentwickler Client-Server-Anwendungen (m/w/d) — MY Humancapital GmbH
-  · Entwicklungsingenieur Bremssysteme (all gender) — Actana Consulting Services Gmb
-  · DevOps/ML Engineer (m/f/d) — Machine Learning Reply
-  · Agentic AI Software Engineer — Machine Learning Reply
-  · Backend Software Engineer (m/f/d), Rust – AI-first E-commerc — adstrong
-  · DevOps Engineer (100% remote) — Tether Operations Limited
+★ 新职位 6 条
+  · Software Engineer – Mission Control Software — The Exploration Company
+  · Full-Stack Engineer — AI Authoring Platform — Tracium GmbH
+  · Software Developer  Java/ Node.JS (Web Development Team) — jetbrains
+  · Software Engineer I (New Grad 2027) - Instruments team — Affirm
+  · Software Engineer, Backend — Sevenroomsuk
+  · AI - Enabled Software Engineer — Mark43
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
