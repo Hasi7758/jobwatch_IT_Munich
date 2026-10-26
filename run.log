@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5722 条
+  拿到 4660 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,17 +44,20 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2963 条
+  拿到 3281 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 82 / 8685 条符合关键词+地点
+过滤后 79 / 7941 条符合关键词+地点
 
-★ 新职位 6 条
-  · Software Engineer – Mission Control Software — The Exploration Company
-  · Full-Stack Engineer — AI Authoring Platform — Tracium GmbH
-  · Software Developer  Java/ Node.JS (Web Development Team) — jetbrains
-  · Software Engineer I (New Grad 2027) - Instruments team — Affirm
-  · Software Engineer, Backend — Sevenroomsuk
-  · AI - Enabled Software Engineer — Mark43
+★ 新职位 9 条
+  · Solution Support (w/m/d) Release Engineer — Magazino GmbH
+  · Software Engineer – Cloud Services – Rust — tensordyne
+  · Ops/Developer Platform Engineer — tensordyne
+  · Junior AI Application Engineer – AI Products (LLM & RAG) (m/ — Machine Learning Reply
+  · DevOps/ML Engineer (m/f/d) — Machine Learning Reply
+  · DevOps Engineer — Swarmaero
+  · Platform Engineer — ITQ
+  · Full-Stack Development (m/w/d) — summ.ai
+  · Solution Support (w/m/d) Release Engineer — Magazino
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
