@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 4608 条
+  拿到 4585 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,25 +44,17 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2984 条
+  拿到 2967 条
 丢弃过期职位 1 条(发布超过 365 天)
 
-过滤后 86 / 7592 条符合关键词+地点
+过滤后 85 / 7552 条符合关键词+地点
 
-★ 新职位 14 条
-  · DevOps Engineer (f/m/d) — isaraerospace
-  · Application Software Engineer (f/m/d) — isaraerospace
-  · Forward Deployed Software Engineer — Palantir
-  · Technical Product Owner mit Entwickler-Background 100 % (w/m — YOU MAWO
-  · KI-Entwickler LLM / RAG / Agenten – Python oder TypeScript ( — Rockstardevelopers GmbH
-  · Fullstack Entwickler TypeScript – Node.js / Angular, KI-Inte — Rockstardevelopers GmbH
-  · Fullstack Entwickler Java / Angular (m/w/d) – Mid-Level — Rockstardevelopers GmbH
-  · Software Engineer I — Onestream
-  · Software Engineer - Research Participants - United Kingdom — Prolificacademicltd
-  · Machine Learning Engineer - Research Participants - United K — Prolificacademicltd
-  · DevOps Engineer - Research Participants - United Kingdom — Prolificacademicltd
-  · Software Engineer I — Onestream
-  · Intermediate Fullstack Engineer (Ruby/Vue.js), Growth — gitlab
-  · IT Cloud Engineer  (d/m/w) — Airbus
+★ 新职位 6 条
+  · Software Engineer Backend / KI (m/w/d) - verhandlungssichere — Intrafind Software Ag
+  · Junior AI Engineer (m/w/d) — Htgf
+  · DevOps Engineer (m/w/d) — Interlead GmbH
+  · Backend Engineer (Node.js / TypeScript) — Nexoya
+  · Freelance Full-Stack Developer | Django | AI Products | Pyth — hurra.com
+  · AI Software Development Engineer - Neuromorphic Computing (m — Intel
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
