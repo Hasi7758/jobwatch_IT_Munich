@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 4585 条
+  拿到 4337 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,17 +44,20 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2967 条
-丢弃过期职位 1 条(发布超过 365 天)
+  拿到 2978 条
 
-过滤后 85 / 7552 条符合关键词+地点
+过滤后 90 / 7315 条符合关键词+地点
 
-★ 新职位 6 条
-  · Software Engineer Backend / KI (m/w/d) - verhandlungssichere — Intrafind Software Ag
-  · Junior AI Engineer (m/w/d) — Htgf
-  · DevOps Engineer (m/w/d) — Interlead GmbH
-  · Backend Engineer (Node.js / TypeScript) — Nexoya
-  · Freelance Full-Stack Developer | Django | AI Products | Pyth — hurra.com
-  · AI Software Development Engineer - Neuromorphic Computing (m — Intel
+★ 新职位 10 条
+  · Android Developer — Luscii
+  · iOS Developer — Luscii
+  · SQL Developer – AI Prompting & Context Engineering — Bromcom Computers Plc
+  · DevOps Engineer (100% remote) — Tether Operations Limited
+  · Fullstack Engineer - AgenticOps (100% Remote) — Tether Operations Limited
+  · UI/UX Software Engineer — Se3
+  · Forward Deployed Engineer, Applied AI — Se3
+  · Fullstack Entwickler mit PHP-Backend – Symfony, RabbitMQ (m/ — Rockstardevelopers GmbH
+  · Backend Engineer, Source Code: Repository Services (Ruby) — gitlab
+  · Web / Front End Developer - Research Participants - United K — Prolificacademicltd
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
