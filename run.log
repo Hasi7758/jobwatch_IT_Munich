@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 4228 条
+  拿到 4063 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -21,7 +21,7 @@
   [OK] Micron (workday)
   [OK] AMD (phenom)
   [OK] Cloudflare (greenhouse)
-  [OK] Palantir (lever)
+  [失败] Palantir (lever): ReadTimeout HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)
   [OK] Okta (greenhouse)
   [OK] Twilio (greenhouse)
   [OK] GitLab (greenhouse)
@@ -44,12 +44,13 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2982 条
+  拿到 2672 条
 
-过滤后 81 / 7210 条符合关键词+地点
+过滤后 77 / 6735 条符合关键词+地点
 
-★ 新职位 2 条
-  · Flight Software Engineer — The Exploration Company
-  · Full Stack Developer - Java & React (f/m/d) — ecosio
+★ 新职位 3 条
+  · Backend-Entwickler C# / .NET – ASP.NET, SQL Server (m/w/d) — Rockstardevelopers GmbH
+  · AI Engineer — AnywhereNow
+  · Software Engineer — Software Platform & Middleware (Early Ca — Apex Ai
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
