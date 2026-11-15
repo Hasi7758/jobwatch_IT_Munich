@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5143 条
+  拿到 4884 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -14,11 +14,11 @@
   [OK] Infineon (Neubiberg) (successfactors)
   [OK] Infineon (München) (successfactors)
   [OK] SAP (successfactors)
-  [失败] Intel (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-  [失败] NVIDIA (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  [OK] Intel (workday)
+  [OK] NVIDIA (workday)
   [OK] Salesforce (workday)
-  [失败] Adobe (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-  [失败] Micron (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  [OK] Adobe (workday)
+  [OK] Micron (workday)
   [OK] AMD (phenom)
   [OK] Cloudflare (greenhouse)
   [OK] Palantir (lever)
@@ -44,18 +44,14 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2974 条
+  拿到 3008 条
 
-过滤后 72 / 8117 条符合关键词+地点
+过滤后 67 / 7892 条符合关键词+地点
 
-★ 新职位 8 条
-  · GenAI Engineer (m/w/d) — Machine Learning Reply
-  · Software Engineer (Computer Use & Integrations) (m/w/d) — Recare Deutschland GmbH
-  · Entwicklungsingenieur Konstruktion (m/w/d) — MY Humancapital GmbH
-  · SAP Entwickler (m/w/d) — MY Humancapital GmbH
-  · Softwareentwickler C++ / Qt — MY Humancapital GmbH
-  · Applied AI Engineer, Codex — OpenAI
-  · Site Reliability Engineer (Remote)(Located in the United Kin — knowbe4
-  · GCP Cloud Engineer (Network) (m/w/d) — adconova GmbH
+★ 新职位 4 条
+  · Applied AI Engineer, Startups (Codex) — OpenAI
+  · Fullstack Software Engineer (m/f/d) — Dataguard
+  · DevOps Engineer | Luma — Dotmatics
+  · Software Engineer (All Levels), United Kingdom — Koboldmetals
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
