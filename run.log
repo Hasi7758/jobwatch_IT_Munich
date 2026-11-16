@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 4884 条
+  拿到 4870 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -7,18 +7,18 @@
   [OK] ProGlove (personio)
   [OK] Steadforce (personio)
   [OK] Webasto (personio)
-  [OK] Airbus (workday)
+  [失败] Airbus (workday): HTTPError 429 Client Error: Too Many Requests for url: https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs
   [OK] Knorr-Bremse (successfactors)
   [OK] Robert Bosch (smartrecruiters)
   [OK] Continental / Aumovio (smartrecruiters)
   [OK] Infineon (Neubiberg) (successfactors)
   [OK] Infineon (München) (successfactors)
   [OK] SAP (successfactors)
-  [OK] Intel (workday)
-  [OK] NVIDIA (workday)
-  [OK] Salesforce (workday)
-  [OK] Adobe (workday)
-  [OK] Micron (workday)
+  [失败] Intel (workday): HTTPError 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs
+  [失败] NVIDIA (workday): HTTPError 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
+  [失败] Salesforce (workday): HTTPError 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
+  [失败] Adobe (workday): HTTPError 429 Client Error: Too Many Requests for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs
+  [失败] Micron (workday): HTTPError 429 Client Error: Too Many Requests for url: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs
   [OK] AMD (phenom)
   [OK] Cloudflare (greenhouse)
   [OK] Palantir (lever)
@@ -44,14 +44,18 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 3008 条
+  拿到 2842 条
 
-过滤后 67 / 7892 条符合关键词+地点
+过滤后 69 / 7712 条符合关键词+地点
 
-★ 新职位 4 条
-  · Applied AI Engineer, Startups (Codex) — OpenAI
-  · Fullstack Software Engineer (m/f/d) — Dataguard
-  · DevOps Engineer | Luma — Dotmatics
-  · Software Engineer (All Levels), United Kingdom — Koboldmetals
+★ 新职位 8 条
+  · Product Engineer KI-first (m/w/d) - Full Stack, 100 % remote — Fundloop
+  · Software Engineer (m/w/d) – Produkt & Schnittstellen — PraxisConcierge
+  · Cloud Engineer (m/w/d) mit Karriereambitionen! — Auralis Group
+  · Java Softwareentwickler/in mit Karriereambitionen - jetzt mi — Auralis Group
+  · Site Reliability Engineer / SRE (all genders) — Lio
+  · No-Code Developer (m/w/d) | Bubble.io | 100 % Remote — ALPHA Software GmbH
+  · Forward Deployed AI Engineer (m/f/d) — Agilerobotsse
+  · Principle Agentic Software Developer — AMD
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
