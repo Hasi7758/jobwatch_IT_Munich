@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5212 条
+  拿到 5709 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -14,11 +14,11 @@
   [OK] Infineon (Neubiberg) (successfactors)
   [OK] Infineon (München) (successfactors)
   [OK] SAP (successfactors)
-  [失败] Intel (workday): HTTPError 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs
-  [失败] NVIDIA (workday): HTTPError 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
-  [失败] Salesforce (workday): HTTPError 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
-  [失败] Adobe (workday): HTTPError 429 Client Error: Too Many Requests for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs
-  [失败] Micron (workday): HTTPError 429 Client Error: Too Many Requests for url: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs
+  [OK] Intel (workday)
+  [OK] NVIDIA (workday)
+  [OK] Salesforce (workday)
+  [OK] Adobe (workday)
+  [OK] Micron (workday)
   [OK] AMD (phenom)
   [OK] Cloudflare (greenhouse)
   [OK] Palantir (lever)
@@ -44,26 +44,26 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2833 条
+  拿到 2903 条
 
-过滤后 81 / 8045 条符合关键词+地点
+过滤后 95 / 8612 条符合关键词+地点
 
-★ 新职位 18 条
-  · AI Engineer - Large Scale Pre-Training — Vesoma
-  · GenAI/ML Engineer — capco
-  · Fullstack Software Engineer — nozominetworks
+★ 新职位 17 条
+  · Agentic AI Software Engineer — Machine Learning Reply
+  · Entwicklungsingenieur Bremssysteme und Funktionen Brake&Air  — K-tronik GmbH
+  · Full-Stack Engineer - ElevenMusic — ElevenLabs
+  · Full-Stack Engineer (Backend Leaning) - Payments Engineering — ElevenLabs
+  · Full-Stack Engineer (Backend Leaning) - Platform Engineering — ElevenLabs
+  · Graduate Software Engineer - Defence & Security (2027 start) — Cambridgeconsultantslimited
   · Simulation & SIL Infrastructure Engineer (m/f/d) — Quantum-Systems GmbH
-  · Software-Ingenieur:in Robotics — cross-ING AG
-  · Android Developer — Luscii
-  · iOS Developer — Luscii
-  · Java Full-Stack Entwickler (m/w/d) — citema group GmbH
-  · Software Engineer – Desktop Automation / RPA (m/w/d) — Recare Deutschland GmbH
-  · Entwicklungsingenieur Integration Rahmenanbauteile (m/w/x) — K-tronik GmbH
-  · Entwicklungsingenieur Bremssysteme Radbremse (w/m/x) — K-tronik GmbH
-  · Dein neuer Job: IT-Consultant Input Management - Digitalisie — Prime Force Group
-  · Junior IT Consultant PAM/IAM — bizcon AG
-  · IT Consultant Infrastructure (DELL/EMC) (m/w/d) — Medialine EuroTrade AG
-  · IT Consultant - Digital Product Development (FULL REMOTE) m| — TIVITY
-  …另有 3 条
+  · Backend Engineer (Ruby), AI Engineering: AI Catalog — gitlab
+  · AI Full-Stack Developer (m/w/d) — NEON Software Solutions
+  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
+  · Fullstack Consultant — FourEnergy GmbH
+  · Your new Job: IT-Consultant Input Management - Digitalisatio — Prime Force Group
+  · Infrastructure Engineer (Melville, Onsite, English) — D Ploy
+  · Software Development Engineer — beyondtrust
+  · Softwareentwickler (m/w/d) – KI / Automationen / interne Too — InnoSolv GmbH
+  …另有 2 条
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
