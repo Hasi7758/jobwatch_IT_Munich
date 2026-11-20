@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5637 条
+  拿到 5968 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -15,13 +15,13 @@
   [OK] Infineon (München) (successfactors)
   [OK] SAP (successfactors)
   [失败] Intel (workday): HTTPError 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs
-  [OK] NVIDIA (workday)
-  [失败] Salesforce (workday): HTTPError 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
-  [OK] Adobe (workday)
+  [失败] NVIDIA (workday): HTTPError 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
+  [OK] Salesforce (workday)
+  [失败] Adobe (workday): HTTPError 429 Client Error: Too Many Requests for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs
   [失败] Micron (workday): HTTPError 429 Client Error: Too Many Requests for url: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs
   [OK] AMD (phenom)
   [OK] Cloudflare (greenhouse)
-  [OK] Palantir (lever)
+  [失败] Palantir (lever): ReadTimeout HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)
   [OK] Okta (greenhouse)
   [OK] Twilio (greenhouse)
   [OK] GitLab (greenhouse)
@@ -44,19 +44,15 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2873 条
+  拿到 2508 条
 
-过滤后 90 / 8510 条符合关键词+地点
+过滤后 91 / 8476 条符合关键词+地点
 
-★ 新职位 9 条
-  · Cloud Engineer (m/w/x) – Cloud-Betrieb von SaaS-Lösungen — VertiGIS GmbH
-  · Front End Developer — SchemeServe Limited
-  · Mobile Developer — Luscii
-  · AI Engineer - RL Post-Training and Agentic Systems — Vesoma
-  · AI Engineer - Simulation Environments — Vesoma
-  · Flight Simulation Software Engineer (m/f/d) — TYTAN Technologies GmbH
-  · Web Developer (m/f/d) — Neuverge Tron
-  · Cloud Infrastructure Engineer - AWS (m/w/d) — shopware AG
-  · Software Engineer II, Backend — Affirm
+★ 新职位 5 条
+  · Backend Entwickler:in (m/w/d) — Biz Factory GmbH
+  · Systemadministrator (m/w/d) / DevOps Engineer für Linux- und — Biz Factory GmbH
+  · Software Engineer II, Full stack (Open Banking) — Affirm
+  · Software Engineer | Propr.xyz — SwissBorg
+  · Software Engineer, Web Development — Titanom Technologies
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
