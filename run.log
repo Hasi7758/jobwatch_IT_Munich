@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5968 条
+  拿到 5962 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -16,12 +16,12 @@
   [OK] SAP (successfactors)
   [失败] Intel (workday): HTTPError 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs
   [失败] NVIDIA (workday): HTTPError 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
-  [OK] Salesforce (workday)
+  [失败] Salesforce (workday): HTTPError 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
   [失败] Adobe (workday): HTTPError 429 Client Error: Too Many Requests for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs
   [失败] Micron (workday): HTTPError 429 Client Error: Too Many Requests for url: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs
   [OK] AMD (phenom)
   [OK] Cloudflare (greenhouse)
-  [失败] Palantir (lever): ReadTimeout HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)
+  [OK] Palantir (lever)
   [OK] Okta (greenhouse)
   [OK] Twilio (greenhouse)
   [OK] GitLab (greenhouse)
@@ -44,15 +44,19 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2508 条
+  拿到 2863 条
 
-过滤后 91 / 8476 条符合关键词+地点
+过滤后 97 / 8825 条符合关键词+地点
 
-★ 新职位 5 条
-  · Backend Entwickler:in (m/w/d) — Biz Factory GmbH
-  · Systemadministrator (m/w/d) / DevOps Engineer für Linux- und — Biz Factory GmbH
-  · Software Engineer II, Full stack (Open Banking) — Affirm
-  · Software Engineer | Propr.xyz — SwissBorg
-  · Software Engineer, Web Development — Titanom Technologies
+★ 新职位 9 条
+  · 1227 | Back-end Developer — Intetics 2
+  · 1226 | Front-end Developer — Intetics 2
+  · Forward Deployed AI Engineer (m/f/d) – Multi-Agent Systems — advanced engineering GmbH
+  · Backend Software Developer — Dawn Technology
+  · Entwicklungsingenieur Konstruktion (m/w/d) — MY Humancapital GmbH
+  · AI Full-Stack Developer (m/w/d) — NEON Software Solutions
+  · Developer C# / .NET as Freelancer (all genders) — Vexcash AG
+  · Développeur fullstack confirmé H/F (C#, .Net, Angular) — N2JSoft
+  · Forward Deployed AI Engineer — gravity9
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
