@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5962 条
+  拿到 5992 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,19 +44,15 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2863 条
+  拿到 2865 条
 
-过滤后 97 / 8825 条符合关键词+地点
+过滤后 102 / 8857 条符合关键词+地点
 
-★ 新职位 9 条
-  · 1227 | Back-end Developer — Intetics 2
-  · 1226 | Front-end Developer — Intetics 2
-  · Forward Deployed AI Engineer (m/f/d) – Multi-Agent Systems — advanced engineering GmbH
-  · Backend Software Developer — Dawn Technology
-  · Entwicklungsingenieur Konstruktion (m/w/d) — MY Humancapital GmbH
-  · AI Full-Stack Developer (m/w/d) — NEON Software Solutions
-  · Developer C# / .NET as Freelancer (all genders) — Vexcash AG
-  · Développeur fullstack confirmé H/F (C#, .Net, Angular) — N2JSoft
-  · Forward Deployed AI Engineer — gravity9
+★ 新职位 5 条
+  · Software Developer (Junior): TypeScript & Groovy (m/w/d) — MESKRU GmbH
+  · Software Engineer (m/f/d) Industrial Robot Control — Agilerobotsse
+  · Applied AI Engineer (all genders) — Wemolo
+  · Backend Engineer (Ruby), Plan: Spec-Driven Development — gitlab
+  · Junior Fullstack Engineer (m/w/d) TS, React, Next.js & AI  1 — notara GmbH
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
