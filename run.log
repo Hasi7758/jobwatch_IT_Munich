@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5992 条
+  拿到 5958 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -14,11 +14,11 @@
   [OK] Infineon (Neubiberg) (successfactors)
   [OK] Infineon (München) (successfactors)
   [OK] SAP (successfactors)
-  [失败] Intel (workday): HTTPError 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs
-  [失败] NVIDIA (workday): HTTPError 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
-  [失败] Salesforce (workday): HTTPError 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
-  [失败] Adobe (workday): HTTPError 429 Client Error: Too Many Requests for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs
-  [失败] Micron (workday): HTTPError 429 Client Error: Too Many Requests for url: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs
+  [OK] Intel (workday)
+  [OK] NVIDIA (workday)
+  [OK] Salesforce (workday)
+  [OK] Adobe (workday)
+  [OK] Micron (workday)
   [OK] AMD (phenom)
   [OK] Cloudflare (greenhouse)
   [OK] Palantir (lever)
@@ -44,15 +44,16 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2865 条
+  拿到 2928 条
 
-过滤后 102 / 8857 条符合关键词+地点
+过滤后 84 / 8886 条符合关键词+地点
 
-★ 新职位 5 条
-  · Software Developer (Junior): TypeScript & Groovy (m/w/d) — MESKRU GmbH
-  · Software Engineer (m/f/d) Industrial Robot Control — Agilerobotsse
-  · Applied AI Engineer (all genders) — Wemolo
-  · Backend Engineer (Ruby), Plan: Spec-Driven Development — gitlab
-  · Junior Fullstack Engineer (m/w/d) TS, React, Next.js & AI  1 — notara GmbH
+★ 新职位 6 条
+  · AI Engineer — AnywhereNow
+  · SAP ABAP-Entwickler:in — Pertemps ERP
+  · Java Entwickler:in / Java Developer Backend (w/m/d) — BBHT Beratungsgesellschaft mbH
+  · Frontend Engineer (f/m/d) — Manex AI GmbH
+  · (Teilzeit) Rezeptentwicklung & Ernährungspläne (m/w/d) — Frühlingszwiebel
+  · Junior IT Consultant / IT Business Analyst (m/w/d) — much. GmbH
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
