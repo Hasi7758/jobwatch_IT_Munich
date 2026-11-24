@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5958 条
+  拿到 5881 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -14,18 +14,18 @@
   [OK] Infineon (Neubiberg) (successfactors)
   [OK] Infineon (München) (successfactors)
   [OK] SAP (successfactors)
-  [OK] Intel (workday)
-  [OK] NVIDIA (workday)
-  [OK] Salesforce (workday)
-  [OK] Adobe (workday)
-  [OK] Micron (workday)
+  [失败] Intel (workday): HTTPError 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs
+  [失败] NVIDIA (workday): HTTPError 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
+  [失败] Salesforce (workday): HTTPError 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
+  [失败] Adobe (workday): HTTPError 429 Client Error: Too Many Requests for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs
+  [失败] Micron (workday): HTTPError 429 Client Error: Too Many Requests for url: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs
   [OK] AMD (phenom)
   [OK] Cloudflare (greenhouse)
   [OK] Palantir (lever)
   [OK] Okta (greenhouse)
   [OK] Twilio (greenhouse)
   [OK] GitLab (greenhouse)
-  [OK] Thoughtworks (greenhouse)
+  [失败] Thoughtworks (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/thoughtworks/jobs
   [OK] Celonis (greenhouse)
   [OK] Helsing (greenhouse)
   [OK] IDnow (greenhouse)
@@ -44,16 +44,23 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2928 条
+  拿到 2841 条
 
-过滤后 84 / 8886 条符合关键词+地点
+过滤后 80 / 8722 条符合关键词+地点
 
-★ 新职位 6 条
-  · AI Engineer — AnywhereNow
-  · SAP ABAP-Entwickler:in — Pertemps ERP
-  · Java Entwickler:in / Java Developer Backend (w/m/d) — BBHT Beratungsgesellschaft mbH
-  · Frontend Engineer (f/m/d) — Manex AI GmbH
-  · (Teilzeit) Rezeptentwicklung & Ernährungspläne (m/w/d) — Frühlingszwiebel
-  · Junior IT Consultant / IT Business Analyst (m/w/d) — much. GmbH
+★ 新职位 13 条
+  · Enterprise Platform Engineer, EMEA — Abnormalsecurity
+  · Software Engineer: Core — Constructor
+  · Software Engineer — Beo Energy
+  · IT Consultant (Atlassian/Jira) (m/w/d) — MESKRU GmbH
+  · Junior AI Application Engineer – AI Products (LLM & RAG) (m/ — Machine Learning Reply
+  · Java Backend Developer (m/w/d) – AdTech, Spring Boot & AI — streamboost GmbH
+  · Java Entwickler mit GKV Erfahrung (m/w/d) — virtual7 GmbH
+  · Junior AI Application Engineer – AI Products (LLM & RAG) (m/ — Machine Learning Reply
+  · GenAI Engineer (m/w/d) — Machine Learning Reply
+  · Founding Full-Stack Engineer — planqor.ai
+  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
+  · Software Engineer C++/C# für verteilte Systeme (m/w/x) — K-tronik GmbH
+  · Simulation Backend Engineer — Helsing
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
