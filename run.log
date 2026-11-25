@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5881 条
+  拿到 5823 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,23 +44,21 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2841 条
+  拿到 2845 条
 
-过滤后 80 / 8722 条符合关键词+地点
+过滤后 84 / 8668 条符合关键词+地点
 
-★ 新职位 13 条
-  · Enterprise Platform Engineer, EMEA — Abnormalsecurity
-  · Software Engineer: Core — Constructor
-  · Software Engineer — Beo Energy
-  · IT Consultant (Atlassian/Jira) (m/w/d) — MESKRU GmbH
-  · Junior AI Application Engineer – AI Products (LLM & RAG) (m/ — Machine Learning Reply
-  · Java Backend Developer (m/w/d) – AdTech, Spring Boot & AI — streamboost GmbH
-  · Java Entwickler mit GKV Erfahrung (m/w/d) — virtual7 GmbH
-  · Junior AI Application Engineer – AI Products (LLM & RAG) (m/ — Machine Learning Reply
-  · GenAI Engineer (m/w/d) — Machine Learning Reply
-  · Founding Full-Stack Engineer — planqor.ai
-  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
-  · Software Engineer C++/C# für verteilte Systeme (m/w/x) — K-tronik GmbH
-  · Simulation Backend Engineer — Helsing
+★ 新职位 11 条
+  · Full Stack Developer - Java & React (f/m/d) — ecosio
+  · Développeur Full-Stack (Node.js / React / Flutter) — OHana Entreprise
+  · Full-stack Developer — ADOMIK
+  · Protocol Software Engineer (m/w/d) Funkprotokolle — citema group GmbH
+  · SAP ABAP Entwickler (m/w/d) bis zu 80%-Remote — VOLENTUM Deutschland GmbH
+  · Site Reliability Engineer - Platform Reliability — Referralsuseonly
+  · IT-Consultant (m/w/d) — Leafworks GmbH
+  · Fullstack Software Engineer (m/f/d) — Dataguard
+  · No-Code Developer (m/w/d) | Bubble.io | 100 % Remote — ALPHA Software GmbH
+  · Freelance Full-Stack Developer | Django | AI Products | Pyth — hurra.com
+  · Full-Stack Developer (m/w/d) – Java/Spring Boot & TypeScript — P&T Software
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
