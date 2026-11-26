@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5823 条
+  拿到 5790 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,21 +44,23 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2845 条
+  拿到 2805 条
 
-过滤后 84 / 8668 条符合关键词+地点
+过滤后 92 / 8595 条符合关键词+地点
 
-★ 新职位 11 条
-  · Full Stack Developer - Java & React (f/m/d) — ecosio
-  · Développeur Full-Stack (Node.js / React / Flutter) — OHana Entreprise
-  · Full-stack Developer — ADOMIK
-  · Protocol Software Engineer (m/w/d) Funkprotokolle — citema group GmbH
-  · SAP ABAP Entwickler (m/w/d) bis zu 80%-Remote — VOLENTUM Deutschland GmbH
-  · Site Reliability Engineer - Platform Reliability — Referralsuseonly
-  · IT-Consultant (m/w/d) — Leafworks GmbH
-  · Fullstack Software Engineer (m/f/d) — Dataguard
-  · No-Code Developer (m/w/d) | Bubble.io | 100 % Remote — ALPHA Software GmbH
-  · Freelance Full-Stack Developer | Django | AI Products | Pyth — hurra.com
-  · Full-Stack Developer (m/w/d) – Java/Spring Boot & TypeScript — P&T Software
+★ 新职位 13 条
+  · Junior Cloud Operations Engineer (all genders) CH — BSI Software
+  · Full Stack Software Developer - React / Python / PostgreSQL — isaraerospace
+  · Cloud Infrastructure Engineer — Microagi
+  · Site Reliability Engineer - Platform Reliability — Elastic
+  · Platform Engineer — Manygroup
+  · Fullstack Software Engineer - Core Engineering — dataiku
+  · AI Engineer (m/w/d) — Collaboration Betters The Worl
+  · Fullstack Software Engineer - Core Engineering — dataiku
+  · Full Stack Developer (node.js) — Delta Capita
+  · Frontend Software Engineer — Newsweek
+  · Backend Software Engineer — Newsweek
+  · Full-Stack Developer (Backend Focus) (m/w/d) — SCAILE TECHNOLOGIES GmbH
+  · Full Stack Software Developer - React / Python / PostgreSQL — Isar Aerospace
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
