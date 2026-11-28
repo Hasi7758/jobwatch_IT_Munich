@@ -1,5 +1,5 @@
 抓取 arbeitnow…
-  拿到 5551 条
+  拿到 5443 条
 抓取公司 ATS…
   [OK] Konux (greenhouse)
   [OK] Isar Aerospace (greenhouse)
@@ -44,15 +44,19 @@
   [OK] HolidayCheck (personio)
   [OK] TNG Technology Consulting (personio)
   [OK] Flix (smartrecruiters)
-  拿到 2817 条
+  拿到 2814 条
 
-过滤后 89 / 8368 条符合关键词+地点
+过滤后 88 / 8257 条符合关键词+地点
 
-★ 新职位 5 条
-  · Inhouse DevOps / Platform Engineer (m/w/d) - 100% remote — DWWA Personalberatung GmbH
-  · Kubernetes Administrator/Private Cloud Engineer (m/w/d) — virtual7 GmbH
-  · Cloud DevSecOps Engineer – Software Supply Chain Security (m — virtual7 GmbH
-  · Webdesigner-/Entwickler – WordPress & AI (m/w/d) — ANY Marketing GmbH
-  · Software-Entwickler C# / DevOps (m/w/d) — Multi Leiterplatten GmbH
+★ 新职位 9 条
+  · DevOps/ML Engineer (m/f/d) — Machine Learning Reply
+  · Software Engineer .NET & Platform (m/w/d) — Everfield
+  · Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m — BBHT Beratungsgesellschaft mbH
+  · Software Engineer, Clinical AI Devices — DeepHealth
+  · Machine Learning Engineer – Models in Production (m/f/d) — advanced engineering GmbH
+  · Entwicklungsingenieur Konstruktion (m/w/d) — MY Humancapital GmbH
+  · Développeur fullstack confirmé H/F (C#, .Net, Angular) — N2JSoft
+  · DevOps Engineer W/M (remote) 🇪🇺 — Pennylane SAS
+  · DevOps/ML Engineer (m/f/d) — Machine Learning Reply
 
 报告已生成: /home/runner/work/jobwatch_IT_Munich/jobwatch_IT_Munich/digest.html
